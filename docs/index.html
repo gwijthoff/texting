@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html ⚡ lang="en">
+  <head>
+  <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+
+  <title>Networked Selfhood and the Novel | Spring 2019</title>
+  <meta name="description" content="">
+
+  <link rel="canonical" href="http://localhost:4000/selfhood/">
+  <link rel="alternate" type="application/rss+xml" title="Networked Selfhood and the Novel" href="http://localhost:4000/selfhood/feed.xml">
+
+  <script type="application/ld+json">
+  
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": "http://localhost:4000/selfhood/",
+  "headline": "Networked Selfhood and the Novel | Spring 2019",
+  "datePublished": "2019-01-07T11:15:15-05:00",
+  "dateModified": "2019-01-07T11:15:15-05:00",
+  "description": "",
+  "author": {
+    "@type": "Person",
+    "name": "Grant Wythoff"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Networked Selfhood and the Novel",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:4000/selfhood",
+      "width": 60,
+      "height": 60
+    }
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://localhost:4000/selfhood",
+    "height": 60,
+    "width": 60
+  }
+}
+
+  </script>
+
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
+
+  <style amp-custom>
+  
+  /* Import ET Book styles
+   adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
+@font-face {
+  font-family: "et-book";
+  src: url("/selfhood/assets/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot");
+  src: url("/selfhood/assets/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix") format("embedded-opentype"), url("/selfhood/assets/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff"), url("/selfhood/assets/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf") format("truetype"), url("/selfhood/assets/et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbookromanosf") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: "et-book";
+  src: url("/selfhood/assets/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot");
+  src: url("/selfhood/assets/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot?#iefix") format("embedded-opentype"), url("/selfhood/assets/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff") format("woff"), url("/selfhood/assets/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf") format("truetype"), url("/selfhood/assets/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg#etbookromanosf") format("svg");
+  font-weight: normal;
+  font-style: italic; }
+@font-face {
+  font-family: "et-book";
+  src: url("/selfhood/assets/et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot");
+  src: url("/selfhood/assets/et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot?#iefix") format("embedded-opentype"), url("/selfhood/assets/et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff") format("woff"), url("/selfhood/assets/et-book/et-book-bold-line-figures/et-book-bold-line-figures.ttf") format("truetype"), url("/selfhood/assets/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg#etbookromanosf") format("svg");
+  font-weight: bold;
+  font-style: normal; }
+@font-face {
+  font-family: "et-book-roman-old-style";
+  src: url("/selfhood/assets/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot");
+  src: url("/selfhood/assets/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot?#iefix") format("embedded-opentype"), url("/selfhood/assets/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.woff") format("woff"), url("/selfhood/assets/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.ttf") format("truetype"), url("/selfhood/assets/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.svg#etbookromanosf") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+/* Tufte CSS styles */
+html {
+  font-size: 15px; }
+
+body {
+  width: 87.5%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 12.5%;
+  font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  background-color: #fffff8;
+  color: #111;
+  max-width: 1400px;
+  counter-reset: sidenote-counter; }
+
+h1 {
+  font-weight: 400;
+  margin-top: 4rem;
+  margin-bottom: 1.5rem;
+  font-size: 3.2rem;
+  line-height: 1; }
+
+h2 {
+  font-style: italic;
+  font-weight: 400;
+  margin-top: 2.1rem;
+  margin-bottom: 0;
+  font-size: 2.2rem;
+  line-height: 1; }
+
+h3 {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1.7rem;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  line-height: 1; }
+
+p.subtitle {
+  font-style: italic;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+  display: block;
+  line-height: 1; }
+
+.numeral {
+  font-family: et-book-roman-old-style; }
+
+.danger {
+  color: red; }
+
+article {
+  position: relative;
+  padding: 5rem 0rem; }
+
+section {
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
+
+p, ol, ul, .pagination a, .pagination em, table {
+  font-size: 1.4rem; }
+
+p {
+  line-height: 2rem;
+  margin-top: 1.4rem;
+  margin-bottom: 1.4rem;
+  padding-right: 0;
+  vertical-align: baseline; }
+
+/* Chapter Epigraphs */
+div.epigraph {
+  margin: 5em 0; }
+
+div.epigraph > blockquote {
+  margin-top: 3em;
+  margin-bottom: 3em; }
+
+div.epigraph > blockquote, div.epigraph > blockquote > p {
+  font-style: italic; }
+
+div.epigraph > blockquote > footer {
+  font-style: normal; }
+
+div.epigraph > blockquote > footer > cite {
+  font-style: italic; }
+
+/* end chapter epigraphs styles */
+blockquote {
+  font-size: 1.4rem; }
+
+blockquote p {
+  width: 50%; }
+
+blockquote .footer {
+  width: 50%;
+  font-size: 1.1rem;
+  text-align: right; }
+
+ol, ul {
+  width: 45%;
+  -webkit-padding-start: 5%;
+  -webkit-padding-end: 5%; }
+
+li {
+  padding: 0.5rem 0; }
+
+figure {
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  max-width: 55%;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  margin: 0 0 3em 0; }
+
+figcaption {
+  float: right;
+  clear: right;
+  margin-right: -48%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  vertical-align: baseline;
+  position: relative;
+  max-width: 40%; }
+
+figure.fullwidth figcaption {
+  margin-right: 24%; }
+
+/* Links: replicate underline that clears descenders */
+a:link, a:visited {
+  color: inherit; }
+
+a:link {
+  text-decoration: none;
+  background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
+  background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333);
+  -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+  -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+  background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+  background-repeat: no-repeat, no-repeat, repeat-x;
+  text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
+  background-position: 0% 93%, 100% 93%, 0% 93%; }
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  a:link {
+    background-position-y: 87%, 87%, 87%; } }
+a:link::selection {
+  text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
+  background: #b4d5fe; }
+
+a:link::-moz-selection {
+  text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
+  background: #b4d5fe; }
+
+/* Sidenotes, margin notes, figures, captions */
+img {
+  max-width: 100%; }
+
+.sidenote, .marginnote {
+  float: right;
+  clear: right;
+  margin-right: -60%;
+  width: 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.1rem;
+  line-height: 1.3;
+  vertical-align: baseline;
+  position: relative; }
+
+.table-caption {
+  float: right;
+  clear: right;
+  margin-right: -60%;
+  width: 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.0rem;
+  line-height: 1.6; }
+
+.sidenote-number {
+  counter-increment: sidenote-counter; }
+
+.sidenote-number:after, .sidenote:before {
+  content: counter(sidenote-counter) " ";
+  font-family: et-book-roman-old-style;
+  position: relative;
+  vertical-align: baseline; }
+
+.sidenote-number:after {
+  content: counter(sidenote-counter);
+  font-size: 1rem;
+  top: -0.5rem;
+  left: 0.1rem; }
+
+.sidenote:before {
+  content: counter(sidenote-counter) " ";
+  top: -0.5rem; }
+
+p, footer, table, div.table-wrapper-small, div.supertable-wrapper > p, div.booktabs-wrapper {
+  width: 55%; }
+
+div.fullwidth, table.fullwidth {
+  width: 100%; }
+
+div.table-wrapper {
+  overflow-x: auto;
+  font-family: "Trebuchet MS", "Gill Sans", "Gill Sans MT", sans-serif; }
+
+@media screen and (max-width: 760px) {
+  p, h1, h2, h3, footer {
+    width: 90%; }
+
+  pre.code {
+    width: 87.5%; }
+
+  ul {
+    width: 85%; }
+
+  figure {
+    max-width: 90%; }
+
+  figcaption, figure.fullwidth figcaption {
+    margin-right: 0%;
+    max-width: none; }
+
+  blockquote p, blockquote .footer {
+    width: 90%; } }
+.sans {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  letter-spacing: .03em; }
+
+.code {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 1.125rem;
+  line-height: 1.6; }
+
+h1 .code, h2 .code, h3 .code {
+  font-size: 0.80em; }
+
+.marginnote .code, .sidenote .code {
+  font-size: 1rem; }
+
+pre.code {
+  width: 52.5%;
+  padding-left: 2.5%;
+  overflow-x: auto; }
+
+.fullwidth {
+  max-width: 90%;
+  clear: both; }
+
+span.newthought {
+  font-variant: small-caps;
+  font-size: 1.2em; }
+
+.margin-toggle {
+  display: none; }
+
+.sidenote-number {
+  display: inline; }
+
+.margin-toggle:not(.sidenote-number) {
+  display: none; }
+
+@media (max-width: 760px) {
+  .margin-toggle:not(.sidenote-number) {
+    display: none; }
+
+  .sidenote, .marginnote {
+    display: none; }
+
+  .margin-toggle:checked + .sidenote,
+  .margin-toggle:checked + .marginnote {
+    display: block;
+    float: left;
+    left: 1rem;
+    clear: both;
+    width: 95%;
+    margin: 1rem 2.5%;
+    vertical-align: baseline;
+    position: relative; }
+
+  label {
+    cursor: pointer; }
+
+  pre.code {
+    width: 90%;
+    padding: 0; }
+
+  .table-caption {
+    display: block;
+    float: right;
+    clear: both;
+    width: 98%;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    margin-left: 1%;
+    margin-right: 1%;
+    vertical-align: baseline;
+    position: relative; }
+
+  div.table-wrapper, table, table.booktabs {
+    width: 85%; }
+
+  div.table-wrapper {
+    border-right: 1px solid #efefef; }
+
+  img {
+    width: 100%; } }
+main {
+  margin-top: 20px; }
+
+amp-img {
+  background-color: grey; }
+
+article {
+  padding: 2.5rem 0; }
+
+header {
+  margin-top: 20px; }
+
+.post-meta {
+  margin-top: 10px; }
+
+pre {
+  width: 52.5%;
+  padding-left: 2.5%;
+  overflow-x: auto; }
+
+@media (max-width: 760px) {
+  pre {
+    width: 90%;
+    padding: 0; } }
+code {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 1.125rem;
+  line-height: 1.6; }
+
+  </style>
+
+
+
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+</head>
+
+  <body>
+    <header>
+  <div class="page-links">
+    <a class="page-link" href="/selfhood/">Home</a>
+    • <a href="#schedule">Schedule</a>
+    
+      
+    
+    • <a href="https://github.com/gwijthoff/selfhood/">Github Repo</a>
+    • <a href="selfhood_syllabus.pdf">PDF</a>
+  </div>
+</header>
+
+
+    <article class="post">
+
+  <section>
+    <h1 id="networked-selfhood-and-the-novel">Networked Selfhood and the Novel</h1>
+
+<h2 id="engl-b291">ENGL B291</h2>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Spring 2019
+MW 2:40–4:00
+Location: English House III
+
+Dr. Grant Wythoff &lt;gwythoff@brynmawr.edu&gt;
+Office hours by appointment
+</code></pre>
+</div>
+
+<p><a href="#schedule"><strong>Skip to the schedule…</strong></a></p>
+
+<p style="text-align: center">◦ ◦ ◦</p>
+
+<h1 id="description">Description</h1>
+
+<p>The luddites, the philosophers, even the tech evangelists all seem to be in agreement that living in a networked world has changed something about the way we understand ourselves as individuals. But where should we locate the shifting boundaries between the self and the publics we connect with today? On the one hand, networked selfhood involves conscious, authorial acts. We compose sketches of our lives on social media for intimate strangers: high school classmates, public figures, acquaintances we’ve met only once. On the other hand, our carefully curated online profiles pale in comparison to the portraits of our lives being assembled by data brokers, government agencies, and Silicon Valley companies.</p>
+
+<p>In this course, we will turn to novels for lessons in how personhood has been configured differently. Novels allow the reader to see contradictions between the inner and outer person, the character shared with the reader as opposed to the “self” that the character projects to her social world. How have figurations of characters, persons, selves, and individuals changed throughout the history of the novel? How do contemporary novelists represent the new forms of self-fashioning emerging online today? How can we use novels to renegotiate the relationship between privacy—the ability to selectively reveal oneself to the world—and intimacy—when we find ourselves disclosing to others the most important aspects of our lives?</p>
+
+<p>Our weekly readings will mix recent works of media theory examining the self and its relationship to networked others with novels that register shifts or offer models of historically situated selfhood through either narrative means or formal experimentation.</p>
+
+<h2 id="readingsunits">Readings/Units</h2>
+
+<p>4 novels (2 weeks each), 4 criticism weeks, 1 intro, 1 closing</p>
+
+<p>Final Novels:</p>
+
+<ul>
+  <li>Louisa Hall, <em>Speak</em> (2015)</li>
+  <li>Kazuo Ishiguro, <em>Never Let Me Go</em> (2005)</li>
+  <li>Ann Petry, <em>The Street</em> (1946)</li>
+  <li>
+    <p>Henry James, <em>In The Cage</em> (1898)</p>
+  </li>
+  <li>Selections from <em>New English Library Book of Internet Stories</em> (2000)</li>
+</ul>
+
+<h3 id="literary-criticism">Literary Criticism</h3>
+
+<ul>
+  <li>Amelie Oksenberg Rorty (ed.), <em>The Identities of Persons.</em> (1976) University of California Press (piece on “characters, persons, selves” in postscript, p. 301-324)</li>
+  <li>Michel Zink, <em>The Invention of Literary Subjectivity</em> (1985/1998)</li>
+  <li>Joel Fineman: <em>The Subjectivity Effect in Western Literary Tradition: Essays toward the Release of Shakespeare’s Will</em> (1991)</li>
+  <li>Anne Enderwitz, “Literature, subjectivity and ‘human nature’: Evolution in literary studies”</li>
+  <li>Adela Pinch, <em>Thinking about Other People in Nineteenth-Century British Writing</em> (2010)</li>
+  <li>Linda H. Peterson, <em>Becoming a Woman of Letters: Myths of Authorship and Facts of the Victorian Market</em> (2009)</li>
+</ul>
+
+<h3 id="tech-news">Tech News</h3>
+
+<p>How much of the Internet is fake? https://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html</p>
+
+<h3 id="media-theory">Media Theory</h3>
+
+<ul>
+  <li>visual culture / selfies
+    <ul>
+      <li>On 15c mirrors and the invention of the self: https://www.laphamsquarterly.org/roundtable/mirror-effect</li>
+      <li>Jacob Burckhardt, famous cultural historian who wrote on the notion of “the individual” in the Renaissance
+        <ul>
+          <li>https://muse.jhu.edu/article/609780/pdf</li>
+          <li>https://www.theguardian.com/culture/2010/jul/10/jacob-burckhardt-civilization-renaissance-italy</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>the public and algorithmic newsfeeds</li>
+  <li>the user?</li>
+  <li>death/memorialization?</li>
+  <li>
+    <p>intimacy/privacy?</p>
+  </li>
+  <li>Dominic Pettman, <em>Infinite Distraction</em> (2015)</li>
+  <li>Wendy Chun, <em>Updating to Remain the Same: Habitual New Media</em> (2016), Ch. 4, Reality/Truth, Conclusion, Selection of YouTube Comments, pp. 135-180</li>
+  <li>Bratton, <em>The Stack</em> on the user as a fiction to “accommodate the cultural logics of human self identity” (345 et al)</li>
+  <li>Kate Hayles, <em>Unthought: The Power of the Cognitive Nonconscious</em> (2017)</li>
+  <li>This gorgeously produced book, maybe find in PDF or scan? http://www.sternberg-press.com/index.php?pageId=1803&amp;l=en&amp;print</li>
+  <li>John Cheney-Lippold, <em>We Are Data: Algorithms and The Making of Our Digital Selves</em></li>
+  <li>Jill Rettberg, <em>Seeing Ourselves Through Technology : How We Use Selfies, Blogs and Wearable Devices to See and Shape Ourselves</em> (2014)</li>
+  <li>Dawn Nafus and Jamie Sherman, “This One Does Not Go Up To 11: The Quantified Self Movement as an Alternative Big Data Practice,” International Journal of Communication 8 (June 16, 2014): 1784–94.</li>
+  <li>Siva Vaidhyanathan, <em>Antisocial Media: How Facebook Disconnects Us and Undermines Democracy</em> (2018)</li>
+  <li>Sarah E. Igo, <em>The Known Citizen: A History of Privacy in Modern America</em> (2018)</li>
+  <li>Mauss chapter on the self, sent from Christian</li>
+  <li>Bernard Harcourt’s event, The Statistical Subject in the Age of Data: https://mailchi.mp/columbia/event-of-note-universities-in-a-post-truth-world-with-professor-carol-gluck-436921</li>
+  <li>“Illness Narratives, Networked Subjects, and Intimate Publics” https://catalystjournal.org/index.php/catalyst/article/view/29627</li>
+  <li>“To Mourn, To Re-imagine Without Oneself: Death, Dying, and Social Media/tion” https://catalystjournal.org/index.php/catalyst/article/view/29632</li>
+</ul>
+
+<h2 id="sample-exercises">Sample exercises</h2>
+
+<p>In addition, we will conduct exercises that allow us to regain a measure of authorship over the portraits of ourselves assembled by data brokers. Students will learn tactics for protecting against online harassment and trolling, as well as surveillance by government agencies who actively monitor the search results and social media activity of immigrants and citizens who speak with immigrants.</p>
+
+<ol>
+  <li>Institute a “digital sabbath” for Sundays this term—no laptops, tablets, or phones—while keeping a log of the affects that 24 hours of disconnection has on your memory, concentration, loneliness, creativity, etc.</li>
+  <li>Using an arbitrarily selected calendar date that the class will agree on as a group (i.e. Wednesday, March 9, 2016), reconstruct a narrative of that day based on traces you have willingly left behind: emails, Facebook likes, activity trackers, etc. We will assemble a portrait of this day using only our digitally-distributed memories.</li>
+</ol>
+
+<!--NOTES
+
+- Conduct self-surveillance using browser plugins like Data Selfie, ProPublica's "What Facebook Thinks You Like," and Cambridge's "Apply Magic Sauce" in order to see (and alter) how Facebook creates your psychological profile.
+
+  - especially novels that question the notion of a representative person.
+  - As Dominic Pettman writes: "We now shed information about ourselves at the same rate as skin cells or strands of hair."
+  - on relationship between privacy and intimacy: https://plato.stanford.edu/entries/privacy/#PriInt
+  - Vice news tonight story on DHS announcement that social media monitoring among immigrants. Including "search results," which is not fully defined. Thursday night story. Adam Schwartz, EFF attorney. Citizens who speak with immigrants are subject to data collection. These policies began under Obama. Visa waiver programs required collection of social media data
+  - How do our "smart" devices assume we want to be connected? What forms of algorithmically-determined and monetized intimacy do they force upon us? What kinds of "elective affinities" do they slot us into, filter bubbles, echo chambers?
+  - Novels are classically about the self? buildingsroman? are *all* novels about the self?
+  - Novels are also a technology of the self
+-->
+
+<!--MORE
+  - "A Guide to Getting Past Customs With Your Digital Privacy Intact" https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/
+  - https://www.aclu.org/other/constitution-100-mile-border-zone
+-->
+
+<h1 id="schedule"><a name="schedule"></a>Schedule</h1>
+
+<h2 id="wk-1----jan-23--intro">wk 1  |  Jan 23 | intro</h2>
+
+<p>Lauren Oyler, <a href="https://thebaffler.com/outbursts/habitual-user-oyler">“Habitual User,”</a>, <em>The Baffler,</em> no. 41 (September 2018)</p>
+
+<h2 id="wk-2----jan-2830--misc-readings">wk 2  |  Jan 28/30 | misc readings</h2>
+
+<p>Excerpts from 1990s Internet Stories collection?</p>
+
+<p>Dominic Pettman?</p>
+
+<p>Characters / Persons / Selves?</p>
+
+<h2 id="wk-3----feb-46--louisa-hall-speak-2015">wk 3  |  Feb 4/6 | Louisa Hall, <em>Speak</em> (2015)</h2>
+
+<p><strong>Mon:</strong> pp. 1–78</p>
+
+<p><strong>Wed:</strong> pp. 78–157</p>
+
+<p>Chapter from Broad Band on 1940s women computers in Philadelphia</p>
+
+<h2 id="wk-4----feb-1113--louisa-hall-speak-2015">wk 4  |  Feb 11/13 | Louisa Hall, <em>Speak</em> (2015)</h2>
+
+<p><strong>Mon:</strong> pp. 158–234</p>
+
+<p>https://lonelytweets.com/</p>
+
+<p><strong>Wed:</strong> pp. 235–end</p>
+
+<h2 id="wk-5----feb-1820--misc-readings">wk 5  |  Feb 18/20 | misc readings</h2>
+
+<h2 id="wk-6----feb-2527--novel-2-kazuo-ishiguro">wk 6  |  Feb 25/27 | novel 2, Kazuo Ishiguro</h2>
+
+<!-- Jocelyn: "It doesn't deal at all with internet technology or social networks in the facebook/twitter sense, but if you're open to broader more metaphorical readings of how social networks define selfhood, I do think it has an awful lot to say about that. In so many ways it's an allegory, I think, for how racial prejudice stems from failures of social connection, how much who you are seen to be by the world has more to do with who you do and don't know than with who you're born to, and how much that limits the possibilities of self-fashioning. In a lot of ways I think that book reconfigures bodily difference as network difference. But, although it was published in 2005, if I remember correctly I don't think it contains any references to internet technology. Anyway, it's also just such a beautiful book and such a page turner, I'm convinced it would teach really well. In a contemporary novel you're probably looking for something more explicitly responding to social networks though, I would think?" -->
+
+<h2 id="wk-7----mar-46--novel-2-kazuo-ishiguro">wk 7  |  Mar 4/6 | novel 2, Kazuo Ishiguro</h2>
+
+<h2 id="spring-break">SPRING BREAK</h2>
+
+<h2 id="wk-8----mar-1820--misc-readings">wk 8  |  Mar 18/20 | misc readings</h2>
+
+<h2 id="wk-9----mar-2527--novel-3-ann-petry">wk 9  |  Mar 25/27 | novel 3, Ann Petry</h2>
+
+<h2 id="wk-10----apr-13--novel-3-ann-petry">wk 10  |  Apr 1/3 | novel 3, Ann Petry</h2>
+
+<h2 id="wk-11----apr-810--misc-readings">wk 11  |  Apr 8/10 | misc readings</h2>
+
+<h2 id="wk-12----apr-1517--novel-4-henry-james">wk 12  |  Apr 15/17 | novel 4, Henry James</h2>
+
+<p>Henry James on point of view in the novel as “central intelligence”: https://academic.oup.com/eic/article-abstract/XI/1/60/457756?redirectedFrom=PDF</p>
+
+<p>Haley Larsen essay in Configurations 26</p>
+
+<p>Public By Default: amazing stories from publicly-accessible Venmo data, much like Henry James’s <em>In the Cage</em>:  https://publicbydefault.fyi/</p>
+
+<h2 id="wk-13----apr-2224--novel-4-henry-james">wk 13  |  Apr 22/24 | novel 4, Henry James</h2>
+
+<h2 id="wk-14----apr-29may-1--closing">wk 14  |  Apr 29/May 1 | closing</h2>
+
+<!-- use `_md_to_pdf_header` then & pandoc -o selfhood_syllabus.pdf --template selfhoodsyl.latex index.md -->
+
+  </section>
+
+    <footer class="site-footer">
+   <section class="copyright">This syllabus is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> &bull; 2019</section>
+</footer>
+
+  </div>
+</article>
+  </body>
+</html>
