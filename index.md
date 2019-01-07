@@ -13,7 +13,8 @@ MW 2:40–4:00
 Location: English House III
 
 Dr. Grant Wythoff <gwythoff@brynmawr.edu>
-Office hours by appointment
+Office hours MW 1–2:30
+English House Garden Room 001
 ```
 
 [**Skip to the schedule…**](#schedule)
@@ -21,8 +22,7 @@ Office hours by appointment
 ◦ ◦ ◦
 {: style="text-align: center"}
 
-Description
-============
+# Description
 
 The luddites, the philosophers, even the tech evangelists all seem to be in agreement that living in a networked world has changed something about the way we understand ourselves as individuals. But where should we locate the shifting boundaries between the self and the publics we connect with today? On the one hand, networked selfhood involves conscious, authorial acts. We compose sketches of our lives on social media for intimate strangers: high school classmates, public figures, acquaintances we've met only once. On the other hand, our carefully curated online profiles pale in comparison to the portraits of our lives being assembled by data brokers, government agencies, and Silicon Valley companies.
 
@@ -30,19 +30,17 @@ In this course, we will turn to novels for lessons in how personhood has been co
 
 Our weekly readings will mix recent works of media theory examining the self and its relationship to networked others with novels that register shifts or offer models of historically situated selfhood through either narrative means or formal experimentation.
 
-Readings/Units
------------------
-
-4 novels (2 weeks each), 4 criticism weeks, 1 intro, 1 closing
-
-Final Novels:
+# Required Books
 
 - Louisa Hall, *Speak* (2015)
 - Kazuo Ishiguro, *Never Let Me Go* (2005)
 - Ann Petry, *The Street* (1946)
 - Henry James, *In The Cage* (1898)
 
-- Selections from *New English Library Book of Internet Stories* (2000)
+Readings/Units
+-----------------
+
+4 novels (2 weeks each), 4 criticism weeks, 1 intro, 1 closing
 
 ### Literary Criticism
 
@@ -59,16 +57,28 @@ How much of the Internet is fake? https://nymag.com/intelligencer/2018/12/how-mu
 
 ### Media Theory
 
+theory pairings for novels: doesn't have to be direct, just echoes. Each unit precedes the novel, sets the table
+
+- Louisa Hall, *Speak* (2015)
+  - Pettmann
+  - characters / persons / selves / individuals
+- Kazuo Ishiguro, *Never Let Me Go* (2005)
+  - in Igo, The Known Citizen, Ch. 8, Stories of One’s Self. Stuff on memoir and biography, and how we should think about these persons differently from fictional characters
+- Ann Petry, *The Street* (1946)
+  - networks and determinism? publics and algorithmic newsfeeds
+- Henry James, *In The Cage* (1898)
+  - intimacy vs privacy
+
 - visual culture / selfies
   - On 15c mirrors and the invention of the self: https://www.laphamsquarterly.org/roundtable/mirror-effect
   - Jacob Burckhardt, famous cultural historian who wrote on the notion of “the individual” in the Renaissance
       - https://muse.jhu.edu/article/609780/pdf
       - https://www.theguardian.com/culture/2010/jul/10/jacob-burckhardt-civilization-renaissance-italy
-- the public and algorithmic newsfeeds
 - the user?
 - death/memorialization?
-- intimacy/privacy?
 
+- Simanowski, *Facebook society: losing ourselves in sharing ourselves*
+- Jacqueline Wernimont, *Numbered Lives: Life and Death in Quantum Media*
 - Dominic Pettman, *Infinite Distraction* (2015)
 - Wendy Chun, *Updating to Remain the Same: Habitual New Media* (2016), Ch. 4, Reality/Truth, Conclusion, Selection of YouTube Comments, pp. 135-180
 - Bratton, *The Stack* on the user as a fiction to “accommodate the cultural logics of human self identity” (345 et al)
@@ -114,60 +124,86 @@ In addition, we will conduct exercises that allow us to regain a measure of auth
 
 ## wk 1  |  Jan 23 | intro
 
-Lauren Oyler, ["Habitual User,"](https://thebaffler.com/outbursts/habitual-user-oyler), *The Baffler,* no. 41 (September 2018)
+❧ Lauren Oyler, ["Habitual User,"](https://thebaffler.com/outbursts/habitual-user-oyler), *The Baffler,* no. 41 (September 2018)
 
-## wk 2  |  Jan 28/30 | misc readings
+## wk 2  |  Jan 28, 30 | misc readings
 
-Excerpts from 1990s Internet Stories collection?
+**Monday:**
 
-Dominic Pettman?
+❧ Dominic Pettman?
 
-Characters / Persons / Selves?
+**Wednesday:**
 
-## wk 3  |  Feb 4/6 | Louisa Hall, *Speak* (2015)
+❧ Excerpts from *New English Library Book of Internet Stories* (2000)?
 
-**Mon:** pp. 1–78
+❧ Characters / Persons / Selves?
 
-**Wed:** pp. 78–157
+## wk 3  |  Feb 4, 6 | Louisa Hall, **Speak** (2015)
 
-Chapter from Broad Band on 1940s women computers in Philadelphia
+**Monday:**
 
-## wk 4  |  Feb 11/13 | Louisa Hall, *Speak* (2015)
+❧ Hall, pp. 1–78
 
-**Mon:** pp. 158–234
+**Wednesday:**
 
-https://lonelytweets.com/
+❧ Hall, pp. 78–157
 
-**Wed:** pp. 235–end
+❧ Chapter from Broad Band on 1940s women computers in Philadelphia
 
-## wk 5  |  Feb 18/20 | misc readings
+## wk 4  |  Feb 11, 13 | Louisa Hall, **Speak** (2015)
 
-## wk 6  |  Feb 25/27 | novel 2, Kazuo Ishiguro
+**Monday:**
 
-<!-- Jocelyn: "It doesn't deal at all with internet technology or social networks in the facebook/twitter sense, but if you're open to broader more metaphorical readings of how social networks define selfhood, I do think it has an awful lot to say about that. In so many ways it's an allegory, I think, for how racial prejudice stems from failures of social connection, how much who you are seen to be by the world has more to do with who you do and don't know than with who you're born to, and how much that limits the possibilities of self-fashioning. In a lot of ways I think that book reconfigures bodily difference as network difference. But, although it was published in 2005, if I remember correctly I don't think it contains any references to internet technology. Anyway, it's also just such a beautiful book and such a page turner, I'm convinced it would teach really well. In a contemporary novel you're probably looking for something more explicitly responding to social networks though, I would think?" -->
+❧ Hall, pp. 158–234
 
-## wk 7  |  Mar 4/6 | novel 2, Kazuo Ishiguro
+❧ https://lonelytweets.com/
 
-## SPRING BREAK
+**Wednesday:**
 
-## wk 8  |  Mar 18/20 | misc readings
+❧ Hall, pp. 235–end
 
-## wk 9  |  Mar 25/27 | novel 3, Ann Petry
+## wk 5  |  Feb 18, 20 | misc readings
 
-## wk 10  |  Apr 1/3 | novel 3, Ann Petry
+## wk 6  |  Feb 25, 27 | Kazuo Ishiguro, **Never Let Me Go** (2005)
 
-## wk 11  |  Apr 8/10 | misc readings
+**Monday:**
 
-## wk 12  |  Apr 15/17 | novel 4, Henry James
+❧ Ishiguro, pp. 1–76
 
-Henry James on point of view in the novel as “central intelligence”: https://academic.oup.com/eic/article-abstract/XI/1/60/457756?redirectedFrom=PDF
+**Wednesday:**
 
-Haley Larsen essay in Configurations 26
+❧ Ishiguro, pp. 77–145
 
-Public By Default: amazing stories from publicly-accessible Venmo data, much like Henry James’s *In the Cage*:  https://publicbydefault.fyi/
+## wk 7  |  Mar 4, 6 | Kazuo Ishiguro, **Never Let Me Go** (2005)
 
-## wk 13  |  Apr 22/24 | novel 4, Henry James
+**Monday:**
 
-## wk 14  |  Apr 29/May 1 | closing
+❧ Ishiguro, pp. 146–217
+
+**Wednesday:**
+
+❧ Ishiguro, pp. 218–end
+
+## ☞ SPRING BREAK ☜
+
+## wk 8  |  Mar 18, 20 | Algorithms and the Public
+
+❧ Taina Bucher, "Affective Landscapes: Everyday Encounters with Algorithms," in *If...Then: Algorithmic Power and Politics* (2018), 93-117.
+
+## wk 9  |  Mar 25, 27 | Ann Petry, **The Street** (1946)
+
+## wk 10  |  Apr 1, 3 | Ann Petry, **The Street** (1946)
+
+## wk 11  |  Apr 8, 10 | Intimacy and Privacy
+
+❧ Claire L. Evans, ["Luddite Love,"](https://aeon.co/essays/every-click-leaves-a-trace-breaking-up-online) *Aeon,* January 16 2013
+
+## wk 12  |  Apr 15, 17 | Henry James, **In The Cage** (1898)
+
+❧ Public By Default: amazing stories from publicly-accessible Venmo data, much like Henry James’s *In the Cage*:  https://publicbydefault.fyi/
+
+## wk 13  |  Apr 22, 24 | Henry James, **In The Cage** (1898)
+
+## wk 14  |  Apr 29, May 1 | closing
 
 <!-- use `_md_to_pdf_header` then & pandoc -o selfhood_syllabus.pdf --template selfhoodsyl.latex index.md -->
