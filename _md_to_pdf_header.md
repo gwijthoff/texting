@@ -9,7 +9,7 @@ author: |
     Professor Grant Wythoff\
     \(<gwythoff@brynmawr.edu>\)\
     Office Hours: \
-    MW 1–2:30 \
+    Wed 1–2:30 \
     Garden Room 001 \
      \
     Resources and tutorials at course site:\
