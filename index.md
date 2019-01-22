@@ -228,13 +228,13 @@ These aren't always novels that are directly about networks. Instead, they stage
 
 **Monday:**
 
-❧ Dominic Pettman, *Infinite Distraction* (Polity, 2015), Preface and Introduction: I Know Why the Caged Bird Tweets
+❧ Dominic Pettman, [*Infinite Distraction*](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/Pettman_2015_Infinite_Distraction.pdf) (Polity, 2015), Preface and Introduction: I Know Why the Caged Bird Tweets
 
 <!-- introduce semester assignments/projects -->
 
 **Wednesday:**
 
-❧ Amelie Oksenberg Rorty, "A Literary Postscript: Characters, Persons, Selves, Individuals," in *The Identities of Persons,* ed. Rorty (Univ. of California Press, 1976), pp. 301-324.
+❧ Amelie Oksenberg Rorty, ["A Literary Postscript: Characters, Persons, Selves, Individuals,"](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/Rorty_1976_A_Literary_Postscript.pdf) in *The Identities of Persons,* ed. Rorty (Univ. of California Press, 1976), pp. 301-324.
 
 <!-- introduce Louisa Hall -->
 
@@ -250,7 +250,7 @@ These aren't always novels that are directly about networks. Instead, they stage
 
 ❧ Hall, pp. 78–157
 
-❧ Claire L. Evans, *Broad Band: The Untold Story of the Women who Made the Internet,* (Penguin Random House, 2018), Chapter 2: Amazing Grace
+❧ Claire L. Evans, [*Broad Band: The Untold Story of the Women who Made the Internet,*](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/Evans_2018_Broad_Band.pdf) (Penguin Random House, 2018), Introduction: The Dell, and Chapter 2: Amazing Grace
 
 ## wk 4  |  Feb 11, 13 | Louisa Hall, **Speak** (2015)
 
