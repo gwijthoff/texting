@@ -24,5 +24,5 @@ author: |
 
 [**Skip to the schedule…**](#schedule)
 
-Description
+Description 📱📖
 ============
