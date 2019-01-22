@@ -75,7 +75,7 @@ Several aids will be discussed in class, including the [NoPhone](https://www.the
 
 _[~3 pages of writing]_
 
-Using an arbitrarily selected calendar date that the class will agree on as a group (i.e. Wednesday, March 9, 2016), reconstruct a narrative of that day based on traces you have left behind both willingly and unwittingly: emails, Facebook likes, activity trackers, etc. Write a narrative of this day using your digitally-distributed memories. How was this information collected? With or without your knowledge? In our digital sabbath, we'll reflect on the experience of disconnection. But what forms of digital memorialization do we lose out on when we no longer have such a granular level of access to our daily lives in the past?
+Using an arbitrarily selected calendar date that the class will agree on as a group (i.e. Wednesday, March 9, 2016), reconstruct a narrative of that day based on traces you have left behind both willingly and unwittingly: emails, Facebook likes, activity trackers, etc. Research your life on that day like a private investigator and be as exhaustive as possible. Then, write a narrative of this day using your digitally-distributed memories. How was this information collected? With or without your knowledge? In our digital sabbath, we'll reflect on the experience of disconnection. But what forms of digital memorialization do we lose out on when we no longer have such a granular level of access to our daily lives in the past?
 
 <!--
 Film photography, there was a conscious act of memorialization to press the shutter and take a photo. Even when looking at that photo, you remember that past conscious decision to memorialize that moment. We no longer do that with infinite cloud storage and smartphone photos. But what if we could think that way, consciously, "mindfully," about memory every time we use google calendar, or send an email, or make a purchase. These are otherwise frictionless acts, and the companies *want* them to be frictionless, to harvest more data/money from those interactions. But how would those practices change if we were more mindful about them?
@@ -358,13 +358,15 @@ Introduce Ishiguro
 
 ## wk 11  |  Apr 8, 10 | Anonymity, Privacy, Intimacy
 
-<!-- On relationship between privacy and intimacy: https://plato.stanford.edu/entries/privacy/#PriInt -->
+<!--
+On relationship between privacy and intimacy: https://plato.stanford.edu/entries/privacy/#PriInt
 
-❧ Stephen T. Margulis, “Three Theories of Privacy: An Overview,” in Privacy Online: Perspectives on Privacy and Self-Disclosure in the Social Web (2011)
+Bratton, *The Stack* on the user as a fiction to “accommodate the cultural logics of human self identity” (345 et al)
+-->
+
+❧ Stephen T. Margulis, “Three Theories of Privacy: An Overview,” in *Privacy Online: Perspectives on Privacy and Self-Disclosure in the Social Web* (2011)
 
 ❧ Claire L. Evans, ["Luddite Love,"](https://aeon.co/essays/every-click-leaves-a-trace-breaking-up-online) *Aeon,* January 16 2013
-
-❧ Bratton, *The Stack* on the user as a fiction to “accommodate the cultural logics of human self identity” (345 et al)
 
 ## wk 12  |  Apr 15, 17 | Henry James, **In The Cage** (1898)
 
@@ -378,7 +380,7 @@ Introduce Ishiguro
 
 ❧ James, pp. 198-221
 
-❧ Public By Default: amazing stories from publicly-accessible Venmo data, much like Henry James’s *In the Cage*:  https://publicbydefault.fyi/
+❧ [Public By Default](https://publicbydefault.fyi/): stories from publicly-accessible Venmo data
 
 ## wk 13  |  Apr 22, 24 | Henry James, **In The Cage** (1898)
 
@@ -399,8 +401,6 @@ Introduce Ishiguro
 ❧ Final essay presentations, closing thoughts
 
 ## final essay due Fri, May 10
-
-<!-- use `_md_to_pdf_header` then & pandoc -o selfhood_syllabus.pdf --template selfhoodsyl.latex index.md -->
 
 # Administrivia
 
@@ -440,6 +440,6 @@ Located at Haverford in Stokes Suite 118, the OAR offers students many resources
 
 The Writing Center offers free appointments and experienced peer tutors who are there to help you at any stage of the writing process. The Writing Center is located in Canaday Library. You can get more information at <http://www.brynmawr.edu/writingcenter>.
 
-### HC Writing Center
-
 At Haverford, the Writing Center is located in Magill Library, Stokes, and Zubrow Commons. You can get more information about hours and how to make an appointment at <http://www.haverford.edu/writing-center/>.
+
+<!-- use `_md_to_pdf_header` then & pandoc -o selfhood_syllabus.pdf --template selfhoodsyl.latex index.md -->
