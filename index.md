@@ -32,6 +32,8 @@ Our weekly readings will mix recent works of media theory examining the self and
 
 # Required Books
 
+The following books are required for the class, and are available at the campus book store. In addition to these books, we will be reading a number of articles in PDF that will all be linked to in the schedule below.
+
 - Louisa Hall, *Speak* (2015)
 - Kazuo Ishiguro, *Never Let Me Go* (2005)
 - Ann Petry, *The Street* (1946)
@@ -55,17 +57,11 @@ https://s19tot.ryancordell.org/assignments/
 https://docs.google.com/document/d/1T_9BGlGrSN9PzYNDUJvVzO6vtnwG6GGU-wVSxuTEpA4/edit
 -->
 
-**25% participation**
-
-Class participation is vital to the success of this course. The importance of the works under discussion lies not in the works themselves, but rather in their interrelationship with our discussions and other media that you and I encounter in our daily lives. Simply attending class will not be enough to earn full participation credit. Instead, you must be an active participant, someone who comes prepared and engages with all aspects of the class.
-
-If reading seems like it's flagging, I reserve the right to introduce reading quizzes that will count toward your participation grade.
-
 **30% Digital Sabbath Journal**
 
-_[Roughly 10p of writing: 4x2p uploads, 2p final statement]_
+_[~10p of writing: 4x2p uploads, 2p final statement]_
 
-On Sundays this term, we will institute a "digital sabbath." What this looks like is up to you. As a starting point, I suggest disconnecting all of your devices from the internet (phones in airplane mode, computer WiFi turned off) from the time you wake up to the time you go to bed on Sunday. Keep a journal of your experience during this period of disconnection, commenting on your concentration, creativity, productivity, loneliness, etc. Your journal should be kept in a fresh notebook at least 5"x8.5". You should have this book by our second week of classes.
+On Sundays this term, we will institute a "digital sabbath." What this looks like is up to you. As a starting point, I suggest disconnecting all of your devices from the internet (phones in airplane mode, computer WiFi turned off) for at least six consecutive hours, ideally beginning from the time you wake up. Keep a journal of your experience during this period of disconnection, commenting on your concentration, creativity, productivity, loneliness, etc. Your journal should be kept in a fresh notebook at least 5"x8.5". You should have this notebook by our second week of classes.
 
 Your journal can take the form of a diary, scrapbook, sketchbook, to-do list, or handwritten drafts of text messages and emails to be sent when you re-connect on Monday. Overall, it will serve as a repository for the ways you experience your sense of self differently when digitally disconnected, and how our class readings served as points of reference for those experiences.
 
@@ -75,13 +71,9 @@ Throughout the semester, you will be required to provide four uploads from your 
 
 Several aids will be discussed in class, including the [NoPhone](https://www.thenophone.com/), [Resistor Case](https://resistorcase.org/), and [IRL Glasses](https://www.irl-labs.co/).
 
-**10% Data Trails Log**
-
-For one week, keep a data trails log. Every time you shed some data (a debit card transaction, using your phone number for frequent shopper rewards, an email, a status update, sharing your location data, etc.) mark it in your log. Don't try to actively avoid leaving trails, just passively make a note when you realize that you are leaving a breadcrumb of data behind. Ideally, this log will be kept in a notetaking app on your phone, so that you always have it with you. Keep your diary from the perspective of your data. As we will discuss in class, in the United States we cannot request our data from platforms like Facebook. And so the work of imaginative storytelling and narrative becomes important.
-
 **10% Distributed Memory Project**
 
-_[Roughly 3 pages of writing]_
+_[~3 pages of writing]_
 
 Using an arbitrarily selected calendar date that the class will agree on as a group (i.e. Wednesday, March 9, 2016), reconstruct a narrative of that day based on traces you have left behind both willingly and unwittingly: emails, Facebook likes, activity trackers, etc. Write a narrative of this day using your digitally-distributed memories. How was this information collected? With or without your knowledge? In our digital sabbath, we'll reflect on the experience of disconnection. But what forms of digital memorialization do we lose out on when we no longer have such a granular level of access to our daily lives in the past?
 
@@ -93,11 +85,30 @@ Gmail: from:me before:2015/10/17 after:2015/10/14
 using mysql to look at iMessage database on macbook https://apple.stackexchange.com/questions/222836/how-to-seek-to-very-old-text-messages
 -->
 
+**10% Data Trails Log**
+
+For the week of March 25, keep a data trails log. Every time you shed some data (a debit card transaction, using your phone number for frequent shopper rewards, an email, a status update, sharing your location data, etc.) mark it in your log. Don't try to actively avoid leaving trails, just passively make a note when you realize that you are leaving a breadcrumb of data behind. Ideally, this log will be kept in a notetaking app on your phone, so that you always have it with you. Keep your diary from the perspective of your data. As we will discuss in class, we in the United States cannot request our data from platforms like Facebook. And so the work of imaginative storytelling and narrative becomes important.
+
 **25% Final Essay**
 
 A final essay of 8-10 pages on one of our novels. Further details will follow.
 
+**25% participation**
+
+Class participation is vital to the success of this course. The importance of the works under discussion lies not in the works themselves, but rather in their interrelationship with our discussions and other media that you and I encounter in our daily lives. Simply attending class will not be enough to earn full participation credit. Instead, you must be an active participant, someone who comes prepared and engages with all aspects of the class.
+
+Everyone shares responsibility for including all voices in the discussion.  If you have much to say, try to hold back a bit; if you are hesitant to speak, look for opportunities to contribute to the discussion.
+
 # Summary of assignment due dates
+
+- **Mon, Feb 4:** sabbath journal 1
+- **Mon, Feb 18:** sabbath journal 2
+- **Mon, Mar 4:** distributed memory project
+- **Mon, Mar 18:** sabbath journal 3
+- **Mon, Apr 1:** data trails log
+- **Mon, Apr 15:** sabbath journal 4
+- **Mon, Apr 29:** digital sabbath author's statement
+- **Fri, May 10:** final essay
 
 <!--
 
@@ -116,6 +127,7 @@ In addition to our readings and class discussions, we will conduct exercises tha
 - Install the ["People You May Know Inspector"](https://gizmodo.com/keep-track-of-who-facebook-thinks-you-know-with-this-ni-1819422352) to keep track of how Facebook recommends "friendships" across your extended social networks, and read up on its [unsuccessful attempts](https://gizmodo.com/facebook-wanted-us-to-kill-this-investigative-tool-1826620111) to kill this and other tools developed by journalists to investigate the platform.
 - Conduct self-surveillance using ProPublica's "What Facebook Thinks You Like," and Cambridge's "Apply Magic Sauce" in order to see (and alter) how Facebook creates your psychological profile.
 - Fuzzify.me
+- apply magic sauce
 
 ## data brokers
 
@@ -198,6 +210,12 @@ In addition to our readings and class discussions, we will conduct exercises tha
 ❧ Lauren Oyler, ["Habitual User,"](https://thebaffler.com/outbursts/habitual-user-oyler), *The Baffler,* no. 41 (September 2018)
 
 <!--
+Who I am: PhD at Princeton in English Literature, and I study media, the way people connect with one another and understand the world around them through technology.
+
+The idea for this class:
+
+Handout: name, where you're from, major, if you have a laptop its OS, type of phone, preferred pronouns, preferred name, something you want me to know about you
+
 This course will be an experiment. What questions are we asking? What do I want you to know at the outset? For one, the idea of fiction at work in everyday life (Michael Wood).
 
 These aren't always novels that are directly about networks. Instead, they stage questions about the self and how we project ourselves to others.
@@ -223,6 +241,8 @@ These aren't always novels that are directly about networks. Instead, they stage
 ## wk 3  |  Feb 4, 6 | Louisa Hall, **Speak** (2015)
 
 **Monday:**
+
+❧ *DUE: SABBATH JOURNAL 1*
 
 ❧ Hall, pp. 1–78
 
@@ -255,6 +275,8 @@ These aren't always novels that are directly about networks. Instead, they stage
 
 **Monday:**
 
+❧ *DUE: SABBATH JOURNAL 2*
+
 ❧ India Ennenga, ["Toward a More Radical Selfie"](https://www.theparisreview.org/blog/2018/11/27/toward-a-more-radical-selfie/), *The Paris Review,* November 27, 2018
 
 ❧ Ian Mortimer, ["The Mirror Effect"](https://www.laphamsquarterly.org/roundtable/mirror-effect), *Lapham's Quarterly,* November 9, 2016
@@ -281,6 +303,8 @@ Introduce Ishiguro
 
 **Monday:**
 
+❧ *DUE: DISTRIBUTED MEMORY PROJECT*
+
 ❧ Ishiguro, pp. 146–217
 
 **Wednesday:**
@@ -296,6 +320,8 @@ Introduce Ishiguro
 ## wk 8  |  Mar 18, 20 | Algorithms and Inequality
 
 **Monday:**
+
+❧ *DUE: SABBATH JOURNAL 3*
 
 ❧ Taina Bucher, "Affective Landscapes: Everyday Encounters with Algorithms," in *If...Then: Algorithmic Power and Politics* (2018), 93-117.
 
@@ -318,6 +344,8 @@ Introduce Ishiguro
 ## wk 10  |  Apr 1, 3 | Ann Petry, **The Street** (1946)
 
 **Monday:**
+
+❧ *DUE: DATA TRAILS LOG*
 
 ❧ Petry, pp. 212–326
 
@@ -342,6 +370,8 @@ Introduce Ishiguro
 
 **Monday:**
 
+❧ *DUE: SABBATH JOURNAL 4*
+
 ❧ James, pp. 174-198
 
 **Wednesday:**
@@ -364,7 +394,11 @@ Introduce Ishiguro
 
 ## wk 14  |  Apr 29, May 1 | closing
 
+❧ *DUE: DIGITAL SABBATH AUTHOR'S STATEMENT*
+
 ❧ Final essay presentations, closing thoughts
+
+## final essay due Fri, May 10
 
 <!-- use `_md_to_pdf_header` then & pandoc -o selfhood_syllabus.pdf --template selfhoodsyl.latex index.md -->
 
@@ -372,11 +406,17 @@ Introduce Ishiguro
 
 ## Attendance
 
-Weekly attendance in class is expected. If you must be absent from a session for a serious reason, then you should contact me before the missed class and explain why you will not be in attendance. Cases of continuous, unexplained absence will result in a penalty to your grade or your ineligibility to complete the course. Attendance and active participation in discussions are part of fulfilling the course requirements. I will notify an advising dean if you have three or more unwarranted absences.  No extensions will be given except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
+While I do not advocate missing any classes, I realize that you may face unpredictable circumstances once or twice throughout the term. For this reason, you may miss two classes this semester without penalty. Additional absences will impact your final grade. However (and this is important) you are responsible for seeking class notes from a classmate. I will not provide them.
 
-## Laptop policy
+Each additional absence will lower your final grade by half a letter grade. Students with perfect attendance receive a bonus on their participation grade. Two late arrivals count as an absence. Early departures also count as an absence.
 
-If you have a laptop, bring it to class. **Only open it when asked.** When we are using laptops for in-class exercises, be sure to practice good screen etiquette: keep it to the side and don't stare too long.
+## Laptop Policy
+
+If you have a laptop, bring it to class. Periodically, we will use laptops for in-class exercises and experiments. Additionally, if you traditionally a laptop to take notes, feel free to do so; however, please practice good screen etiquette: keep it to the side and don’t stare too long. Our meetings are built around the capacity to listen and observe one another, to be mutually present in our shared physical space. Good screen etiquette allows this to happen.
+
+## Late Assignments
+
+Late assignments are accepted a week beyond the assignment’s due date. Late assignments will be marked down half a letter grade with each missed day.
 
 ## Honor Code
 
