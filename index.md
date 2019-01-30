@@ -188,6 +188,8 @@ In addition to our readings and class discussions, we will conduct exercises tha
 
 <!--NOTES
 
+See Safiya Noble, p. 132 of PDF, on the “abstracted individual” of both racism and search engines. And think about how *Invisible Man* marked an endpoint of literary naturalism in thinking about type. Deep history of liberal individualism, starting in the 17c, of the “universal individual who was the bearer of equal political rights”, quoting Nancy Leys Stepan. Problems of “unmarked humanity—nonracialize, nongendered, and without class distinction—as the final goal of human transcendence.”
+
 - How do our "smart" devices assume we want to be connected? What forms of algorithmically-determined and monetized intimacy do they force upon us? What kinds of "elective affinities" do they slot us into, filter bubbles, echo chambers?
 - Novels are classically about the self? buildingsroman? are *all* novels about the self?
 - Novels are also a technology of the self
@@ -210,15 +212,7 @@ In addition to our readings and class discussions, we will conduct exercises tha
 ❧ Lauren Oyler, ["Habitual User,"](https://thebaffler.com/outbursts/habitual-user-oyler), *The Baffler,* no. 41 (September 2018)
 
 <!--
-Who I am: PhD at Princeton in English Literature, and I study media, the way people connect with one another and understand the world around them through technology.
 
-The idea for this class:
-
-Handout: name, where you're from, major, if you have a laptop its OS, type of phone, preferred pronouns, preferred name, something you want me to know about you
-
-This course will be an experiment. What questions are we asking? What do I want you to know at the outset? For one, the idea of fiction at work in everyday life (Michael Wood).
-
-These aren't always novels that are directly about networks. Instead, they stage questions about the self and how we project ourselves to others.
 -->
 
 ## Unit 1: Connection
@@ -226,17 +220,34 @@ These aren't always novels that are directly about networks. Instead, they stage
 
 ## wk 2  |  Jan 28, 30 | misc readings
 
-**Monday:**
+**Monday: (Happy Data Privacy Day!)**
 
 ❧ Dominic Pettman, [*Infinite Distraction*](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/Pettman_2015_Infinite_Distraction.pdf) (Polity, 2015), Preface and Introduction: I Know Why the Caged Bird Tweets
 
-<!-- introduce semester assignments/projects -->
+Exercises:
+
+- Install attention trackers. On Android: [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_US), on iOS: Screen Time
 
 **Wednesday:**
 
 ❧ Amelie Oksenberg Rorty, ["A Literary Postscript: Characters, Persons, Selves, Individuals,"](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/Rorty_1976_A_Literary_Postscript.pdf) in *The Identities of Persons,* ed. Rorty (Univ. of California Press, 1976), pp. 301-324.
 
-<!-- introduce Louisa Hall -->
+In class:
+
+- watch Kashmir Hill, ["Goodbye, Big Five"](https://gizmodo.com/i-cut-facebook-out-of-my-life-surprisingly-i-missed-i-1830565456) series on *Gizmodo*
+
+Exercises:
+
+- Install EFF's [Privacy Badger](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking)
+  - on Firefox, use [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+- Install [Scroll-O-Meter](http://scroll-o-meter.club/) plugin for Chrome to track your miles scrolled
+
+<!--
+  - introduce Louisa Hall
+  - introduce sabbath journal (first pics due Mon!)
+  - janavirgin.com/CO2  -- "internet is responsible for 2% of CO2 emissions, more than the aviation industry. It takes 7.07kg of CO2 to transmit 1GB of information"
+    - between 1g-10g CO2 for each google search. Equivalent to boiling a kettle of water
+-->
 
 ## wk 3  |  Feb 4, 6 | Louisa Hall, **Speak** (2015)
 
