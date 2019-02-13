@@ -292,6 +292,8 @@ Exercises:
 
 ❧ Ian Mortimer, ["The Mirror Effect"](https://www.laphamsquarterly.org/roundtable/mirror-effect), *Lapham's Quarterly,* November 9, 2016
 
+❧ Lev Manovich, et al., [SelfieCity](http://selfiecity.net/)
+
 **Wednesday:**
 
 ❧ Sarah E. Igo, *The Known Citizen: A History of Privacy in Modern America,* (Harvard UP, 2018), Chapter 8: "Stories of One's Self," pp. 307-349
