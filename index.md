@@ -296,7 +296,7 @@ Exercises:
 
 **Wednesday:**
 
-❧ Sarah E. Igo, *The Known Citizen: A History of Privacy in Modern America,* (Harvard UP, 2018), Chapter 8: "Stories of One's Self," pp. 307-349
+❧ Sarah E. Igo, [*The Known Citizen: A History of Privacy in Modern America,*](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/igo_known_citizen8_2018.pdf) (Harvard UP, 2018), Chapter 8: "Stories of One's Self," pp. 307-349
 
 <!--
 Introduce Ishiguro
