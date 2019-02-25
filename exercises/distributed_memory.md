@@ -15,6 +15,9 @@ Places you can explore include:
 - your phone's photo library
 - activity trackers
 - Google's ["My Activity"](https://myactivity.google.com/) (includes history of all Google products used)
+- phone notes
+- computer files created/edited on that date
+- calendar app
 
 In order to search Gmail for messages on a specific date, use the following search string:
 
