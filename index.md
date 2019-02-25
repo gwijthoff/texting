@@ -71,7 +71,7 @@ Throughout the semester, you will be required to provide four uploads from your 
 
 Several aids will be discussed in class, including the [NoPhone](https://www.thenophone.com/), [Resistor Case](https://resistorcase.org/), and [IRL Glasses](https://www.irl-labs.co/).
 
-**10% Distributed Memory Project**
+**10% [Distributed Memory Project](exercises/distributed_memory)**
 
 _[~3 pages of writing]_
 
@@ -127,7 +127,6 @@ In addition to our readings and class discussions, we will conduct exercises tha
 - Install the ["People You May Know Inspector"](https://gizmodo.com/keep-track-of-who-facebook-thinks-you-know-with-this-ni-1819422352) to keep track of how Facebook recommends "friendships" across your extended social networks, and read up on its [unsuccessful attempts](https://gizmodo.com/facebook-wanted-us-to-kill-this-investigative-tool-1826620111) to kill this and other tools developed by journalists to investigate the platform.
 - Conduct self-surveillance using ProPublica's "What Facebook Thinks You Like," and Cambridge's "Apply Magic Sauce" in order to see (and alter) how Facebook creates your psychological profile.
 - Fuzzify.me
-- apply magic sauce
 
 ## data brokers
 
