@@ -11,11 +11,10 @@ Places you can explore include:
 
 - emails
 - social media platforms
-- banking app
-- phone's photo library
+- banking apps
+- your phone's photo library
 - activity trackers
-- Google Maps history
-- Google search history
+- Google's ["My Activity"](https://myactivity.google.com/) (includes history of all Google products used)
 
 In order to search Gmail for messages on a specific date, use the following search string:
 
