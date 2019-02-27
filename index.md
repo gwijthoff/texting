@@ -124,10 +124,6 @@ In addition to our readings and class discussions, we will conduct exercises tha
 
 ## social media
 
-- Install the ["People You May Know Inspector"](https://gizmodo.com/keep-track-of-who-facebook-thinks-you-know-with-this-ni-1819422352) to keep track of how Facebook recommends "friendships" across your extended social networks, and read up on its [unsuccessful attempts](https://gizmodo.com/facebook-wanted-us-to-kill-this-investigative-tool-1826620111) to kill this and other tools developed by journalists to investigate the platform.
-- Conduct self-surveillance using ProPublica's "What Facebook Thinks You Like," and Cambridge's "Apply Magic Sauce" in order to see (and alter) how Facebook creates your psychological profile.
-- Fuzzify.me
-
 ## data brokers
 
 - Request your profile from Acxiom, a data broker, to see what has been unwittingly collected about you and block that information from being used or sold
@@ -155,6 +151,7 @@ In addition to our readings and class discussions, we will conduct exercises tha
 - Anne Enderwitz, "Literature, subjectivity and ‘human nature’: Evolution in literary studies"
 - Adela Pinch, *Thinking about Other People in Nineteenth-Century British Writing* (2010)
 - Linda H. Peterson, *Becoming a Woman of Letters: Myths of Authorship and Facts of the Victorian Market* (2009)
+- Sara Danius, *The Senses of Modernism: Technology, Perception, and Aesthetics* (2002), on the ways that new technologies capable of reproducing sense data inspired high modernist novels. "The interiorization of technological modes of perceiving."
 
 ### Tech News
 
@@ -211,7 +208,11 @@ See Safiya Noble, p. 132 of PDF, on the “abstracted individual” of both raci
 ❧ Lauren Oyler, ["Habitual User,"](https://thebaffler.com/outbursts/habitual-user-oyler), *The Baffler,* no. 41 (September 2018)
 
 <!--
+We understand ourselves as individuals largely through others; something about this process has changed in a networked world.
 
+Novels provide models of selfhood.
+
+Oyler convo: what platforms are you on? What are the different versions of their lives that people project on each platform?
 -->
 
 ## Unit 1: Connection
@@ -256,11 +257,23 @@ Exercises:
 
 ❧ Hall, pp. 1–78
 
+<!--
+Science fiction's relationship to "literature," and New Wave SF
+
+the person as a collection of voices
+-->
+
 **Wednesday:**
 
 ❧ Hall, pp. 78–157
 
 ❧ Claire L. Evans, [*Broad Band: The Untold Story of the Women who Made the Internet,*](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/Evans_2018_Broad_Band.pdf) (Penguin Random House, 2018), Introduction: The Dell, and Chapter 2: Amazing Grace
+
+<!--
+tactics for reading: reverse outlining; marginal notes; title page index
+
+unreliable narrator; implied author
+-->
 
 ## wk 4  |  Feb 11, 13 | Louisa Hall, **Speak** (2015)
 
@@ -272,11 +285,25 @@ Exercises:
 
 ❧ Paul Neave, [Lonely Tweets](https://lonelytweets.com/)
 
+<!--
+Bakhtin: heteroglossia; dialogism
+
+Turing Test
+-->
+
 **Wednesday:**
 
 ❧ Hall, pp. 235–end
 
 ❧ Max Read, ["How Much of the Internet is Fake?"](https://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html), *New York* Magazine, December 24, 2018
+
+<!--
+How does *Speak* portray the state of connection today?
+
+We hear more voices today than ever before?
+
+Write a post (platform of your choice) in the voice of one character. Then we'll see  if the group can ID them.
+-->
 
 ## Unit 2: Memorialization
 {: style="text-align: center"}
@@ -293,6 +320,14 @@ Exercises:
 
 ❧ Lev Manovich, et al., [SelfieCity](http://selfiecity.net/)
 
+<!--
+Technological determinism in narratives of self-knowledge and the mirror
+
+approaches to male gaze in visual studies
+
+minstrelsy and the right to frame and own self-image
+-->
+
 **Wednesday:**
 
 ❧ Sarah E. Igo, [*The Known Citizen: A History of Privacy in Modern America,*](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/igo_known_citizen8_2018.pdf) (Harvard UP, 2018), Chapter 8: "Stories of One's Self," pp. 307-349
@@ -307,9 +342,25 @@ Introduce Ishiguro
 
 ❧ Ishiguro, pp. 1–76
 
+Exercise:
+
+- Conduct self-surveillance using ["Apply Magic Sauce"](https://applymagicsauce.com/demo) from Cambridge University Psychometrics Center in order to see (and alter) how Facebook creates your psychological profile.
+
+<!-- explain distributed memory project, due Monday -->
+
 **Wednesday:**
 
 ❧ Ishiguro, pp. 77–145
+
+Exercise:
+
+- Install [Fuzzify.me](https://chupadados.codingrights.org/en/fuzzifyme/), a browser extension developed by [Coding Rights](https://chupadados.codingrights.org/en/about/) that "helps people to thwart future targeted ads and gain transparency into Facebook’s ad platform."
+
+<!--
+allegory / parable / fable
+
+in groups: hunt for examples of tonal shift
+-->
 
 ## wk 7  |  Mar 4, 6 | Kazuo Ishiguro, **Never Let Me Go** (2005)
 
@@ -319,9 +370,17 @@ Introduce Ishiguro
 
 ❧ Ishiguro, pp. 146–217
 
+<!--
+Examples of "literary" SF
+-->
+
 **Wednesday:**
 
 ❧ Ishiguro, pp. 218–end
+
+Exercise:
+
+- Install the ["People You May Know Inspector"](https://gizmodo.com/keep-track-of-who-facebook-thinks-you-know-with-this-ni-1819422352) to keep track of how Facebook recommends "friendships" across your extended social networks, and read up on its [responses](https://gizmodo.com/facebook-wanted-us-to-kill-this-investigative-tool-1826620111) to this and other tools developed by journalists to investigate the platform.
 
 ## ☞ SPRING BREAK | Mar 11–17 ☜
 {: style="text-align: center"}
