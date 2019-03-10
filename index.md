@@ -118,10 +118,6 @@ In addition to our readings and class discussions, we will conduct exercises tha
 
 ## personal habits
 
-- Install [Scroll-O-Meter](http://scroll-o-meter.club/) plugin for Chrome to track your miles scrolled
-- introducing the digital sabbath log
-- Screen Time (iOS) / Digital Wellbeing (Android)
-
 ## social media
 
 ## data brokers
@@ -371,7 +367,7 @@ in groups: hunt for examples of tonal shift
 ❧ Ishiguro, pp. 146–217
 
 <!--
-Examples of "literary" SF
+Examples of "literary" SF, game: guess the genre based on jacket blurb
 -->
 
 **Wednesday:**
@@ -394,11 +390,11 @@ Exercise:
 
 ❧ *DUE: SABBATH JOURNAL 3*
 
-❧ Taina Bucher, "Affective Landscapes: Everyday Encounters with Algorithms," in *If...Then: Algorithmic Power and Politics* (2018), 93-117.
+❧ Taina Bucher, ["Affective Landscapes: Everyday Encounters with Algorithms,"](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/Bucher_2018_If.pdf) in *If...Then: Algorithmic Power and Politics* (2018), 93-117.
 
 **Tuesday:**
 
-❧ Virginia Eubanks, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor,* (St. Martins, 2018) [excerpts]
+❧ Virginia Eubanks, [*Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor,*](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/Eubanks_2018_Automating_Inequality.pdf) (St. Martins, 2018) [excerpts]
 
 ## wk 9  |  Mar 25, 27 | Ann Petry, **The Street** (1946)
 
