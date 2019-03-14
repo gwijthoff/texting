@@ -3,7 +3,7 @@ title: Distributed Memory Project
 layout: exercise
 ---
 
-Reconstruct a narrative of Wednesday, March 9, 2016 based on traces you have left behind both willingly and unwittingly: emails, Facebook likes, activity trackers, etc. Research your life on that day like a private investigator and be as exhaustive as possible. Then, write a narrative of this day using your digitally-distributed memories.
+Using an arbitrarily selected calendar date that the class will agree on as a group (i.e. Wednesday, March 9, 2016), reconstruct a narrative of that day based on traces you have left behind both willingly and unwittingly: emails, Facebook likes, activity trackers, etc. Research your life on that day like a private investigator and be as exhaustive as possible. Then, write a ~3p narrative of this day using your digitally-distributed memories.
 
 ## Tips
 
@@ -29,7 +29,7 @@ For those of you who use Apple's iMessage and are technically adventurous, you c
 
 How was this information collected? With or without your knowledge?
 
-In our digital sabbath, we've been reflecting on the experience of disconnection. But what forms of digital memorialization do we lose out on when we no longer have such a granular level of access to our daily lives in the past?
+In our weekly "digital sabbath," we’ve been reflecting on the experience of disconnection. But what forms of digital memorialization do we lose out on when we no longer have such a granular level of access to our daily lives in the past?
 
 How do past forms of memorialization (note taking, photography, 8mm film cameras) compare to forms of memorialization today? Do you remember the moment you decided to take a given photo, and why, on March 9, 2016? Do you think you would be able to remember the moment you decided to memorialize something if you did so through an older medium (note, film photo, etc?)
 
