@@ -392,7 +392,7 @@ Exercise:
 
 ❧ Taina Bucher, ["Affective Landscapes: Everyday Encounters with Algorithms,"](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/Bucher_2018_If.pdf) in *If...Then: Algorithmic Power and Politics* (2018), 93-117.
 
-**Tuesday:**
+**Wednesday:**
 
 ❧ Virginia Eubanks, [*Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor,*](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/Eubanks_2018_Automating_Inequality.pdf) (St. Martins, 2018) [excerpts]
 
