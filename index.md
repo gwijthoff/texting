@@ -404,6 +404,8 @@ Exercise:
 
 ❧ Petry, pp. 1–112
 
+Browse [Aaron Siskind photographs](https://americanart.si.edu/artist/aaron-siskind-4469)
+
 **Wednesday:**
 
 ❧ Petry, pp. 113–211
