@@ -404,7 +404,7 @@ Exercise:
 
 ❧ Petry, pp. 1–112
 
-Browse [Aaron Siskind photographs](https://americanart.si.edu/artist/aaron-siskind-4469)
+Browse [Aaron Siskind photographs](https://americanart.si.edu/search?query=siskind+most+crowded+block)
 
 **Wednesday:**
 
