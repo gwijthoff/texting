@@ -79,7 +79,7 @@ Using an arbitrarily selected calendar date that the class will agree on as a gr
 
 **10% [Data Trails Log](exercises/data_trails)**
 
-For the week of March 25, keep a data trails log. Every time you shed some data (a debit card transaction, using your phone number for frequent shopper rewards, an email, a status update, sharing your location data, etc.) mark it in your log. Don't try to actively avoid leaving trails, just passively make a note when you realize that you are leaving a breadcrumb of data behind. You can keep this log, for example, in a notetaking app on your phone, or on an index card, or in a notebook. Write your log from the perspective of your data. While in your Distributed Memory project you filled in the gaps of your personal data trails, here you will assemble a portrait from the outside. For inspiration, browse postcards in the [Dear Data](https://www.dear-data.com/theproject) project.
+For the week of March 25, keep a data trails log. Every time you shed some data (a debit card transaction, using your phone number for frequent shopper rewards, an email, a status update, sharing your location data, etc.) mark it in your log. Don't try to actively avoid leaving trails, just passively make a note when you realize that you are leaving a breadcrumb of data behind. You can keep this log, for example, in a notetaking app on your phone, or on an index card, or in a notebook. While in your Distributed Memory project you filled in the gaps of your personal data trails, here you will assemble a portrait from the outside, as if a third party. What do you look like from the perspective of your data?
 
 **25% Final Essay**
 
