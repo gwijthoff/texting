@@ -402,6 +402,8 @@ Browse [Aaron Siskind photographs](https://americanart.si.edu/search?query=siski
 
 ❧ Petry, pp. 113–211
 
+Watch the opening scene of [*The Naked City*](https://archive.org/details/TheNakedCity) (1948, dir. Jules Dassin)
+
 ## wk 10  |  Apr 1, 3 | Ann Petry, **The Street** (1946)
 
 **Monday:**
@@ -409,6 +411,8 @@ Browse [Aaron Siskind photographs](https://americanart.si.edu/search?query=siski
 ❧ *DUE: DATA TRAILS LOG*
 
 ❧ Petry, pp. 212–326
+
+Exercise: [request your profile from the following data brokers](https://www.propublica.org/article/how-to-wrestle-your-data-from-data-brokers-silicon-valley-and-cambridge-analytica)
 
 **Wednesday:**
 
@@ -449,7 +453,7 @@ Bratton, *The Stack* on the user as a fiction to “accommodate the cultural log
 
 ❧ James, pp. 221-243
 
-❧ Scott B. Weingart, ["The Route of a Text Message"](https://scottbot.net/the-route-of-a-text-message/), Jan 15, 2019
+❧ Scott B. Weingart, ["The Route of a Text Message"](https://motherboard.vice.com/en_us/article/kzdn8n/the-route-of-a-text-message-a-love-story), *Motherboard/Vice* Feb 22, 2019
 
 **Wednesday:**
 
