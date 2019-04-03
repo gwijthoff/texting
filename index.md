@@ -414,11 +414,11 @@ Watch the opening scene of [*The Naked City*](https://archive.org/details/TheNak
 
 Ben L. Martin, ["From Negro to Black to African American: The Power of Names and Naming,"](https://www.jstor.org/stable/2152175) *Political Science Quarterly,* Vol. 106, No. 1 (Spring, 1991)
 
-Exercise: [request your profile from the following data brokers](https://www.propublica.org/article/how-to-wrestle-your-data-from-data-brokers-silicon-valley-and-cambridge-analytica)
-
 **Wednesday:**
 
 ❧ Petry, pp. 327–end
+
+Exercise: [request your profile from the following data brokers](https://www.propublica.org/article/how-to-wrestle-your-data-from-data-brokers-silicon-valley-and-cambridge-analytica)
 
 ## Unit 4: Closure
 {: style="text-align: center"}

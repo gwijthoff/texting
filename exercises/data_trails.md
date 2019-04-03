@@ -19,4 +19,5 @@ As much as possible, the logging should be frictionless. Over the course of a we
 ## Inspiration
 
 - browse postcards in the [Dear Data](https://www.dear-data.com/theproject) project. "Each week, and for a year, we collected and measured a particular type of data about our lives, used this data to make a drawing on a postcard-sized sheet of paper, and then dropped the postcard in an English 'postbox' (Stefanie) or an American 'mailbox' (Giorgia)!"
+- data illustrations by [Mona Chalabi](https://monachalabi.com/illustrations/)
 - [Feltron Annual Reports](http://feltron.com/index.html), 2005–2014
