@@ -435,7 +435,7 @@ Bratton, *The Stack* on the user as a fiction to “accommodate the cultural log
 
 **Monday:**
 
-❧ Stephen T. Margulis, “Three Theories of Privacy: An Overview,” in *Privacy Online: Perspectives on Privacy and Self-Disclosure in the Social Web* (2011)
+❧ Stephen T. Margulis, [“Three Theories of Privacy: An Overview,”](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/Margulis_2011_Three_Theories_of_Privacy_-_An_Overview.pdf) in *Privacy Online: Perspectives on Privacy and Self-Disclosure in the Social Web* (2011)
 
 ❧ Claire L. Evans, ["Luddite Love,"](https://aeon.co/essays/every-click-leaves-a-trace-breaking-up-online) *Aeon,* January 16 2013
 
