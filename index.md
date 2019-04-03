@@ -420,6 +420,8 @@ Ben L. Martin, ["From Negro to Black to African American: The Power of Names and
 
 Exercise: [request your profile from the following data brokers](https://www.propublica.org/article/how-to-wrestle-your-data-from-data-brokers-silicon-valley-and-cambridge-analytica)
 
+Related: [What Are 'Data Brokers,' and Why Are They Scooping Up Information About You?](https://motherboard.vice.com/en_us/article/bjpx3w/what-are-data-brokers-and-how-to-stop-my-private-data-collection) [Motherboard]  |  [Digital Advertising Alliances Webchoices Tool and bulk opt-out](http://optout.aboutads.info/)
+
 ## Unit 4: Closure
 {: style="text-align: center"}
 
