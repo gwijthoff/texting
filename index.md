@@ -423,7 +423,7 @@ Exercise: [request your profile from the following data brokers](https://www.pro
 ## Unit 4: Closure
 {: style="text-align: center"}
 
-## wk 11  |  Apr 8, 10 | Anonymity, Privacy, Intimacy
+## wk 11  |  Apr 8, 10 | Secrecy, Privacy, Intimacy
 
 <!--
 On relationship between privacy and intimacy: https://plato.stanford.edu/entries/privacy/#PriInt
@@ -431,9 +431,15 @@ On relationship between privacy and intimacy: https://plato.stanford.edu/entries
 Bratton, *The Stack* on the user as a fiction to “accommodate the cultural logics of human self identity” (345 et al)
 -->
 
+**Monday:**
+
 ❧ Stephen T. Margulis, “Three Theories of Privacy: An Overview,” in *Privacy Online: Perspectives on Privacy and Self-Disclosure in the Social Web* (2011)
 
 ❧ Claire L. Evans, ["Luddite Love,"](https://aeon.co/essays/every-click-leaves-a-trace-breaking-up-online) *Aeon,* January 16 2013
+
+**Wednesday:**
+
+
 
 ## wk 12  |  Apr 15, 17 | Henry James, **In The Cage** (1898)
 
