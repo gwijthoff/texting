@@ -314,6 +314,11 @@ Technological determinism in narratives of self-knowledge and the mirror
 approaches to male gaze in visual studies
 
 minstrelsy and the right to frame and own self-image
+
+- Hands only videos
+- essay on Melania Trump selfies? https://medium.com/@kate8/fairytale-prisoner-by-choice-the-photographic-eye-of-melania-trump-f1f7b97fff29
+
+Open a selfie on your phone and, given what we've just read, how would you "read" your selfie?
 -->
 
 **Wednesday:**
@@ -396,7 +401,7 @@ Exercise:
 
 ❧ Petry, pp. 1–112
 
-Browse [Aaron Siskind photographs](https://americanart.si.edu/search?query=siskind+most+crowded+block)
+❧ Browse [Aaron Siskind photographs](https://americanart.si.edu/search?query=siskind+most+crowded+block)
 
 **Wednesday:**
 
@@ -412,7 +417,7 @@ Watch the opening scene of [*The Naked City*](https://archive.org/details/TheNak
 
 ❧ Petry, pp. 212–326
 
-Ben L. Martin, ["From Negro to Black to African American: The Power of Names and Naming,"](https://www.jstor.org/stable/2152175) *Political Science Quarterly,* Vol. 106, No. 1 (Spring, 1991)
+❧ Ben L. Martin, ["From Negro to Black to African American: The Power of Names and Naming,"](https://www.jstor.org/stable/2152175) *Political Science Quarterly,* Vol. 106, No. 1 (Spring, 1991)
 
 **Wednesday:**
 
@@ -441,7 +446,13 @@ Bratton, *The Stack* on the user as a fiction to “accommodate the cultural log
 
 **Wednesday:**
 
+❧ Natasha Singer, ["Just Don't Call it Privacy,"](https://www.nytimes.com/2018/09/22/sunday-review/privacy-hearing-amazon-google.html) *New York Times,* Sept. 22, 2018
 
+❧ Mana Azarmi, ["Border Searches of Electronic Devices: Oh, The Places Your Data Will Go,"](https://cdt.org/blog/border-searches-of-electronic-devices-oh-the-places-your-data-will-go/) Center for Democracy & Technology blog, Sept. 17, 2018
+
+❧ Riana Pfefferkorn, ["On Social Media, How Can DHS Tell Who’s an Immigrant?"](https://cyberlaw.stanford.edu/blog/2017/09/social-media-how-can-dhs-tell-who%E2%80%99s-immigrant) Center for Internet and Society at Stanford Law School blog, Sep 29, 2017
+
+Tips for border security: Christopher Elliot, ["How can you protect your right to digital privacy at the border?"](https://www.washingtonpost.com/lifestyle/travel/how-can-you-protect-your-right-to-digital-privacy-at-the-border/2017/06/08/95c2cf3e-358f-11e7-b373-418f6849a004_story.html); Electronic Frontier Foundation, ["Digital Privacy at the U.S. Border: Protecting the Data On Your Devices,"](https://www.eff.org/wp/digital-privacy-us-border-2017) guide published March 2017
 
 ## wk 12  |  Apr 15, 17 | Henry James, **In The Cage** (1898)
 
