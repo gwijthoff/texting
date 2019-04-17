@@ -81,9 +81,9 @@ Using an arbitrarily selected calendar date that the class will agree on as a gr
 
 For the week of March 25, keep a data trails log. Every time you shed some data (a debit card transaction, using your phone number for frequent shopper rewards, an email, a status update, sharing your location data, etc.) mark it in your log. Don't try to actively avoid leaving trails, just passively make a note when you realize that you are leaving a breadcrumb of data behind. You can keep this log, for example, in a notetaking app on your phone, or on an index card, or in a notebook. While in your Distributed Memory project you filled in the gaps of your personal data trails, here you will assemble a portrait from the outside, as if a third party. What do you look like from the perspective of your data?
 
-**25% Final Essay**
+**25% [Final Essay](exercises/final_essay)**
 
-A final essay of 8-10 pages on one of our novels. Further details will follow.
+A final essay of 8-10 pages on one of our novels. Answer one of the following: How can we use novels to think about forms of self-fashioning online? How can social media and digital culture help us think about novels?
 
 **25% participation**
 
@@ -421,6 +421,10 @@ Watch the opening scene of [*The Naked City*](https://archive.org/details/TheNak
 
 **Wednesday:**
 
+<!--
+What is a data broker?
+-->
+
 ❧ Petry, pp. 327–end
 
 Exercise: [request your profile from the following data brokers](https://www.propublica.org/article/how-to-wrestle-your-data-from-data-brokers-silicon-valley-and-cambridge-analytica)
@@ -440,11 +444,21 @@ Bratton, *The Stack* on the user as a fiction to “accommodate the cultural log
 
 **Monday:**
 
+<!--
+"tuning knob" model of privacy, at the control panel of a spectrum from totally open/public to completely secret/private, in the definition of "the selective control of access to the self"
+-->
+
 ❧ Stephen T. Margulis, [“Three Theories of Privacy: An Overview,”](https://moodle.brynmawr.edu/pluginfile.php/166537/mod_folder/content/0/Margulis_2011_Three_Theories_of_Privacy_-_An_Overview.pdf) in *Privacy Online: Perspectives on Privacy and Self-Disclosure in the Social Web* (2011)
 
 ❧ Claire L. Evans, ["Luddite Love,"](https://aeon.co/essays/every-click-leaves-a-trace-breaking-up-online) *Aeon,* January 16 2013
 
 **Wednesday:**
+
+<!--
+Why the response "I have nothing to hide" doesn't take into account other people who may be affected by your information. "Immigrants and those who speak with immigrants"
+
+Much of the class focuses on the subjective nature of networked selfhood: interiority, memory, self-fashioning. This week is about the social impacts of networked selfhood, and why privacy isn't just a matter of Google knowing whether you prefer Pepsi over Coke.
+-->
 
 ❧ Natasha Singer, ["Just Don't Call it Privacy,"](https://www.nytimes.com/2018/09/22/sunday-review/privacy-hearing-amazon-google.html) *New York Times,* Sept. 22, 2018
 
@@ -458,15 +472,21 @@ Tips for border security: Christopher Elliot, ["How can you protect your right t
 
 **Monday:**
 
+<!-- Intro to James; final essay discussion -->
+
 ❧ *DUE: SABBATH JOURNAL 4*
 
 ❧ James, pp. 174-198
 
 **Wednesday:**
 
+<!-- What is a telegraph/telegram? -->
+
 ❧ James, pp. 198-221
 
 ❧ [Public By Default](https://publicbydefault.fyi/): stories from publicly-accessible Venmo data
+
+Exercise: play with this [Morse code translator](https://morsecode.scphillips.com/translator.html)
 
 ## wk 13  |  Apr 22, 24 | Henry James, **In The Cage** (1898)
 
@@ -479,6 +499,8 @@ Tips for border security: Christopher Elliot, ["How can you protect your right t
 **Wednesday:**
 
 ❧ James, pp. 243-end
+
+Jon Reeve, ["The Henry James Sentence: New Quantitative Approaches,"](http://jonreeve.com/2017/06/henry-james-sentence/) June 2017
 
 ## wk 14  |  Apr 29, May 1 | closing
 

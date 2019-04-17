@@ -4,6 +4,9 @@ layout: exercise
 ---
 
 <!--
+  - background reading: Kenneth Goldsmith, *Fidget*
+  - example from Essayism of writing exercise, sitting at a cafe for hours, describing everything you see
+  - maybe next time: have students record/collect their data in some form for a week (spreadsheet, datavis, drawing, etc) and then exchange it with a classmate, who will be tasked with one week later submitting a 3rd person report on the portrait of this person through their data. This will contrast much better with the distributed memory project
   - one of the big purposes of this project: negotiating levels of access, thinking about tiers of openness/privacy, given that we "increasingly live our social lives in public" (Evans)
   - whether a digital interaction was initiated by the student or by someone else
   - the question of lurking
