@@ -512,9 +512,36 @@ Exercise: Visualizing James
 
 ## wk 14  |  Apr 29, May 1 | closing
 
+**Monday:**
+
 ❧ *DUE: DIGITAL SABBATH AUTHOR'S STATEMENT*
 
-❧ Final essay presentations, closing thoughts
+❧ Presentations on final essay and digital sabbath statement:
+
+- Rem
+- Clare
+- Marianna
+- Alana
+- Madison
+- Melia
+- Hannah
+- Sierra
+- Emily
+- Nina
+
+**Wednesday:**
+
+❧ Presentations on final essay and digital sabbath statement:
+
+- Matt
+- Julia
+- Sarah
+- Angela
+- Samantha
+- Supti
+- Mala
+- Juliet
+- Linda
 
 ## final essay due Fri, May 10
 
