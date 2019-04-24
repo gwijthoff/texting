@@ -500,7 +500,15 @@ Exercise: play with this [Morse code translator](https://morsecode.scphillips.co
 
 ❧ James, pp. 243-end
 
-Jon Reeve, ["The Henry James Sentence: New Quantitative Approaches,"](http://jonreeve.com/2017/06/henry-james-sentence/) June 2017
+❧ Jon Reeve, ["The Henry James Sentence: New Quantitative Approaches,"](http://jonreeve.com/2017/06/henry-james-sentence/) June 2017
+
+Exercise: Visualizing James
+
+- [download text](https://gist.githubusercontent.com/gwijthoff/886e1e39e0938003df3b743fd1b9de85/raw/32ded85426c06b3e60bd66886cac6a2eaa0cef23/james_inthecage.txt) of *In The Cage* [right click, save as]
+- upload text file to [Voyant](https://voyant-tools.org/)
+- Read [Voyant documentation](https://voyant-tools.org/docs/#!/guide/start) for more info
+- experiment with [other visualization types](http://docs.voyant-tools.org/tools/)
+- compare *In the Cage* with Kate Chopin's [*The Awakening*](https://gist.githubusercontent.com/gwijthoff/b36cbc62e7ff1d368c7bc3131cbe002d/raw/addea4c0370ada6185d7cd8e1f018a81c150069e/chopin_awakening.txt) (1899)
 
 ## wk 14  |  Apr 29, May 1 | closing
 
