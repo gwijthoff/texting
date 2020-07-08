@@ -26,13 +26,13 @@
 |
 +---------------------------------------------->
 |
-|  Humanist Mutual Aid
+|  Privacy, Publicity, and the Text Message
 |
 |  Updated:
-|  July 1, 2020
+|  July 8, 2020
 |
 |  Read More At:
-|  https://www.humanistmutualaid.com/
+|  https://gwijthoff.github.io/texting/
 |
 +---------------------------------------------->
 
@@ -42,18 +42,45 @@
 ===============
 
  
-It&#39;s an understatement to say that COVID-19 has transformed the landscape of academic research in the humanities. The coming months will require creativity and collaboration as we retrofit classes and workshops for screens, as we reel from the loss of funding and income. This pilot project is an effort to prepare by pooling resources and strengthening ties between local institutions. It is built on the model of mutual aid, &#34;in which people take responsibility for caring for one another and changing political conditions . . . by actually building new social relations that are more survivable.&#34; ([Spade 2020](https://read.dukeupress.edu/social-text/article/38/1%20(142)/131/160175/Solidarity-Not-CharityMutual-Aid-for-Mobilization))
+&lt;div class=&#34;mw6 center bl pa3&#34;&gt;
 
-The goal of this project is ☞ to seed humanities research at under-resourced institutions at a moment when funding for the humanities is in jeopardy, and ☞ to build a platform showcasing the range of forums for humanities expertise in the broader world.
+## AMS 343 / ENG 238&lt;br&gt;Fall 2020
 
-## Who We Are
+### Wed, 1:30–3:20 &#43;Practicum
 
-The idea for this project grew from conversations between the Rutgers University–New Brunswick [Digital Humanities Initiative](https://dh.rutgers.edu/) and the [Center for Digital Humanities](https://cdh.princeton.edu/) at Princeton University.
+### Professor Grant Wythoff&lt;br&gt;gwythoff@princeton.edu&lt;br&gt;Office Hours: Tue: 3:00-5:00
 
-## What We Need
+&lt;/div&gt;
 
-To begin, we are collecting requests for and offers of humanist expertise from graduate students, postdocs, and contingent faculty. Forms of aid might include translation, editing, data visualization, and archival methods consults. [See this page](https://humanistmutualaid.com/types/) for more examples. The survey button below will collect your ideas.
+# {{&lt; sms &gt;}} Description {#description}
 
-## What We Offer
+This seminar will explore how we negotiate the distance between ourselves and others through text messages. Texts sustain an ambient intimacy that is increasingly redefining borders that range from the interpersonal—via anonymous mental health support—to the international—via reporting platforms for immigrant communities. What technical and social expectations of privacy do we operate with when sending a point-to-point message? How do novelists incorporate text messages into works of fiction? What does it mean that Frank Ocean [can sing](https://www.youtube.com/watch?v=ZnnwfgqdEGM), “you text nothing like you look”?
 
-We are forming a community of moderators that consists of scholars at Rutgers and Princeton as well as volunteers from among survey participants. These moderators will match helpers with helpees, and meet regularly to shape the project as the community grows and communicates their needs. 
+Students will apply methods from literary theory and textual criticism to text messages. They will learn about the technical standards of SMS, now twenty years old. Readings on virality, surveillance, leaks, and migration and mobile media will be paired with lab experiments in telegraphy, encrypted messaging, and community mesh networks.
+
+# {{&lt; sms &gt;}} Objectives {#objectives}
+
+This course is devoted to developing critical data literacies. This means that students will:
+
+1) review the numerical and categorical information that is collected about them when using social media and messaging platforms,
+2) learn how, where, and by whom their texts are encoded, transmitted, and stored, and
+3) experiment with alternative messaging platforms that will require them to learn some basic computational tools.
+
+Experiments will be prepared during 2hr class discussions and conducted during 1hr practicum sessions, to take place at a time of each student&#39;s choosing. No prior experience with code or critical theory is required.
+
+# {{&lt; sms &gt;}} Sample Readings {#readings}
+
+Radha Sarma Hegde, *Mediating Migration* (2016)
+
+Wendy Chun, *Updating to Remain the Same: Habitual New Media* (2017)
+
+Jerome McGann, *A New Republic of Letters: Memory and Scholarship in the Age of Digital Reproduction* (2014)
+
+Joanne McNeil, *Lurking: How a Person Became a User* (2020)
+
+Elaine Treharne, *Text Technologies: A History* (2019)
+
+Scott B. Weingart, “The Route of a Text Message” (2019)
+
+Amaranth Borsuk, *The Book* (2018)
+ 

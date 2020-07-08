@@ -7,4 +7,4 @@ The following examples and categories of humanist mutual aid are only intended a
  Examples ✏️ writing    writing accountability editing workshopping  ⚙️ technical    text analysis / distant reading mapping / GPS data visualization data curation web development  🔎 libraries &amp;amp; archives    book / article scans archival research methods digital heritage ethics  💬 conversations &amp;amp; meetings    reading group translation research ethics    Take the Survey  (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id=&amp;quot;typef_orm_share&amp;rdquo;, b=&amp;quot;https://embed.typeform.com/&amp;quot;; if(!gi.call(d,id)){ js=ce.call(d,&amp;ldquo;script&amp;rdquo;); js.id=id; js.src=b&#43;&amp;quot;embed.js&amp;rdquo;; q=gt.call(d,&amp;ldquo;script&amp;rdquo;)[0]; q.parentNode.insertBefore(js,q) } })() 
 
 
-https://www.humanistmutualaid.com/types/
+https://gwijthoff.github.io/texting/types/
