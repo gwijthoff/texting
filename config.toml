@@ -1,0 +1,54 @@
+baseURL = "https://gwijthoff.github.io/texting/"
+languageCode = "en-us"
+title = "Privacy, Publicity, and the Text Message"
+theme = "texting-hugo"
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+enableEmoji = true
+FootnoteReturnLinkContents = "⇡"
+publishDir = "docs"
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  order = "orders"
+
+[permalinks]
+  issues = "/:sections/:slug/"
+
+[outputFormats]
+  [outputFormats.TXT]
+    mediaType = "text/plain"
+
+[outputs]
+  page = ["HTML", "TXT"]
+  home = ["HTML", "TXT"]
+
+[menu]
+
+  [[menu.main]]
+    name = "Updates"
+    url = "updates/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Types of Aid"
+    url = "types/"
+    weight = 20
+
+[params]
+  google_fonts = [
+    ["Cardo"],
+    ["Lato"],
+    ["Cormorant", "500"]
+  ]
+
+  heading_font = "Lato"
+  body_font = "Cardo"
+
+  dateform        = "January 2, 2006"
+  dateformShort   = "January 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+[markup.goldmark.renderer]
+  unsafe = true

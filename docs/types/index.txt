@@ -1,0 +1,10 @@
+Types of Aid
+01.01.0001 00:00
+
+Survey participants will be asked to enter forms of aid and expertise that they can provide, that they need, or both. Eventually, forms of humanist expertise can be sampled from the data collected by the survey and featured here, e.g.
+Scholars in the humanities can offer [idea], [idea], and [idea].Scholars in the humanities need [idea], [idea], and [idea]. In the future, community moderators might use survey suggestions to organize scheduled events for respondents, including: methods workshops, seminars, writing accountability groups, and consultations.
+The following examples and categories of humanist mutual aid are only intended as suggestions. We welcome any and all ideas!
+ Examples ✏️ writing    writing accountability editing workshopping  ⚙️ technical    text analysis / distant reading mapping / GPS data visualization data curation web development  🔎 libraries &amp;amp; archives    book / article scans archival research methods digital heritage ethics  💬 conversations &amp;amp; meetings    reading group translation research ethics    Take the Survey  (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id=&amp;quot;typef_orm_share&amp;rdquo;, b=&amp;quot;https://embed.typeform.com/&amp;quot;; if(!gi.call(d,id)){ js=ce.call(d,&amp;ldquo;script&amp;rdquo;); js.id=id; js.src=b&#43;&amp;quot;embed.js&amp;rdquo;; q=gt.call(d,&amp;ldquo;script&amp;rdquo;)[0]; q.parentNode.insertBefore(js,q) } })() 
+
+
+https://www.humanistmutualaid.com/types/

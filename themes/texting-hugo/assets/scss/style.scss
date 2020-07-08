@@ -1,0 +1,60 @@
+html {
+  line-height: 1.6;
+  letter-spacing: .03em;
+  scroll-behavior: smooth;
+}
+
+/* calling google fonts… */
+
+$font-heading: {{ $.Site.Params.heading_font | default "'Roboto', sans-serif" }};
+$font-body: {{ $.Site.Params.body_font | default "'Roboto', sans-serif" }};
+
+body {
+  font-family: $font-body;
+  font-size: 1.15rem;
+  color: #111111;
+  background-color: #fffff8;
+}
+
+h1, h2 {font-family: $font-heading;}
+
+h3, h4, h5, h6 {
+ font-family: $font-heading;
+ overflow-wrap: break-word;
+}
+
+a {color: #111111;}
+a.title {text-decoration: none;}
+a.title:visited {text-decoration: none;}
+a.title:link {text-decoration: none;}
+a.title:active {text-decoration: none;}
+
+// use default blue link color for visited links
+*:visited { color: #111111; }
+
+// dotted underline
+u {
+    border-bottom: 1px dotted;
+    text-decoration: none;
+}
+
+
+/* Navigation */
+.section-nav a {
+    text-decoration: none;
+    color: #ababab;
+    transition: all 50ms ease-in-out; /* 💡 This small transition makes setting of the active state smooth */
+}
+
+.section-nav {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #fffff8;
+  padding-top: 25px;
+}
+
+.section-nav a:hover,
+.section-nav a:focus {
+    color: #111111;
+}
