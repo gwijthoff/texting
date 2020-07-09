@@ -39,6 +39,8 @@ Jerome McGann, *A New Republic of Letters: Memory and Scholarship in the Age of 
 
 Joanne McNeil, *Lurking: How a Person Became a User* (2020)
 
+André Brock, Jr., *Distributed Blackness: African American Cybercultures* (2020)
+
 Elaine Treharne, *Text Technologies: A History* (2019)
 
 Scott B. Weingart, “The Route of a Text Message” (2019)
