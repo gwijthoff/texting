@@ -3,7 +3,7 @@ type: overview
 layout: single
 ---
 
-<div class="mw6 center bl pa3">
+<div class="mw6 center bl br pa3 tc">
 
 ## AMS 343 / ENG 238<br>Fall 2020
 

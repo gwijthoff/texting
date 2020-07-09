@@ -42,7 +42,7 @@
 ===============
 
  
-&lt;div class=&#34;mw6 center bl pa3&#34;&gt;
+&lt;div class=&#34;mw6 center bl br pa3 tc&#34;&gt;
 
 ## AMS 343 / ENG 238&lt;br&gt;Fall 2020
 
