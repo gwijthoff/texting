@@ -6,16 +6,18 @@
 
 {{ range sort (where .Site.AllPages "Type" "overview") ".Params.order" }}
 	<div class="mw7 center measure pa3">
-		{{ with .Site.Menus.main }}
-		<nav class="section-nav tc">
-			<a href="#description">Description</a> • <a href="#objectives">Objectives</a> • <a href="#readings">Readings</a>
+		<div class="section-nav tc">
+			<a href="#top">☝︎</a> •
+			<a href="#description">Description</a> •
+			<a href="#schedule">Schedule</a> •
+			<a href="#admin">Administrivia</a> •
+			<a href="#bottom">☟</a>
 			<br/>
 			<br/>
-		</nav>
-		{{ end }}
-	    <div>
-	      {{ with .Content }} {{ . }} {{ end }}
-	    </div>
+		</div>
+    <div>
+      {{ with .Content }} {{ . }} {{ end }}
+    </div>
 	</div>
 {{ end }}
 

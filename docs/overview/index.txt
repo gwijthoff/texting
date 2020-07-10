@@ -8,7 +8,10 @@ Office Hours: Tue: 3:00-5:00  Description This seminar will explore how we negot
 Students will apply methods from literary theory and textual criticism to text messages. They will learn about the technical standards of SMS, now twenty years old. Readings on virality, surveillance, leaks, and migration and mobile media will be paired with lab experiments in telegraphy, encrypted messaging, and community mesh networks.
 Objectives This course is devoted to developing critical data literacies. This means that students will:
  review the numerical and categorical information that is collected about them when using social media and messaging platforms, learn how, where, and by whom their texts are encoded, transmitted, and stored, and experiment with alternative messaging platforms that will require them to learn some basic computational tools.  Experiments will be prepared during 2hr class discussions and conducted during 1hr practicum sessions, to take place at a time of each student&amp;rsquo;s choosing. No prior experience with code or critical theory is required.
-Sample Readings Radha Sarma Hegde, Mediating Migration (2016)
+Schedule  jump to week
+one • two • three • four
+five • six • seven • eight
+nine • ten • eleven • twelve    Sample Readings Radha Sarma Hegde, Mediating Migration (2016)
 Wendy Chun, Updating to Remain the Same: Habitual New Media (2017)
 Jerome McGann, A New Republic of Letters: Memory and Scholarship in the Age of Digital Reproduction (2014)
 Joanne McNeil, Lurking: How a Person Became a User (2020)
@@ -16,6 +19,6 @@ André Brock, Jr., Distributed Blackness: African American Cybercultures (2020)
 Elaine Treharne, Text Technologies: A History (2019)
 Scott B. Weingart, “The Route of a Text Message” (2019)
 Amaranth Borsuk, The Book (2018)
-
+Week 1 | Sept 2 Week 2 | Sept 9 Week 3 | Sept 16 Week 4 | Sept 23 Week 5 | Sept 30 Week 6 | Oct 7 Week 7 | Oct 14 Week 8 | Oct 21 Week 9 | Oct 28 Week 10 | Nov 4 Week 11 | Nov 11 Week 12 | Nov 18 Administrivia 
 
 https://gwijthoff.github.io/texting/overview/

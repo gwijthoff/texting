@@ -29,7 +29,7 @@
 |  Privacy, Publicity, and the Text Message
 |
 |  Updated:
-|  July 9, 2020
+|  July 10, 2020
 |
 |  Read More At:
 |  https://gwijthoff.github.io/texting/
@@ -42,7 +42,7 @@
 ===============
 
  
-&lt;div class=&#34;mw6 center bl br pa3 tc&#34;&gt;
+&lt;div class=&#34;mw6 center bb pa3 tc&#34;&gt;
 
 ## AMS 343 / ENG 238&lt;br&gt;Fall 2020
 
@@ -58,7 +58,7 @@ This seminar will explore how we negotiate the distance between ourselves and ot
 
 Students will apply methods from literary theory and textual criticism to text messages. They will learn about the technical standards of SMS, now twenty years old. Readings on virality, surveillance, leaks, and migration and mobile media will be paired with lab experiments in telegraphy, encrypted messaging, and community mesh networks.
 
-# {{&lt; sms &gt;}} Objectives {#objectives}
+## Objectives {#objectives}
 
 This course is devoted to developing critical data literacies. This means that students will:
 
@@ -68,7 +68,11 @@ This course is devoted to developing critical data literacies. This means that s
 
 Experiments will be prepared during 2hr class discussions and conducted during 1hr practicum sessions, to take place at a time of each student&#39;s choosing. No prior experience with code or critical theory is required.
 
-# {{&lt; sms &gt;}} Sample Readings {#readings}
+# {{&lt; sms &gt;}} Schedule {#schedule}
+
+{{&lt; schedulenav &gt;}}
+
+## Sample Readings {#readings}
 
 Radha Sarma Hegde, *Mediating Migration* (2016)
 
@@ -85,4 +89,29 @@ Elaine Treharne, *Text Technologies: A History* (2019)
 Scott B. Weingart, “The Route of a Text Message” (2019)
 
 Amaranth Borsuk, *The Book* (2018)
- 
+
+## Week 1 | Sept 2 {#1}
+
+## Week 2 | Sept 9 {#2}
+
+## Week 3 | Sept 16 {#3}
+
+## Week 4 | Sept 23 {#4}
+
+## Week 5 | Sept 30 {#5}
+
+## Week 6 | Oct 7 {#6}
+
+## Week 7 | Oct 14 {#7}
+
+## Week 8 | Oct 21 {#8}
+
+## Week 9 | Oct 28 {#9}
+
+## Week 10 | Nov 4 {#10}
+
+## Week 11 | Nov 11 {#11}
+
+## Week 12 | Nov 18 {#12}
+
+# {{&lt; sms &gt;}} Administrivia {#admin} 
