@@ -41,74 +41,64 @@ Elaine Treharne and Claude Willan, *Text Technologies: A History* (2019)
 
 # {{< sms >}} Schedule {#schedule}
 
-## Wk 1 | Sep 2 | Introductions {#1}
+<h1 class="tc f2">Introductions</h1>
 
-  <p class="tc fw5">
-    Texting in a pandemic.
-  </p>
+## Week 1 | Sep 2 {#1}
 
-## Wk 2 | Sep 9 | Introductions {#2}
+Texting in a pandemic.
 
-  <p class="tc fw5">
-    The history of SMS.
-  </p>
+## Week 2 | Sep 9 {#2}
 
-## Wk 3 | Sep 16 | Community {#3}
+The history of SMS.
 
-  <p class="tc fw5">
-    What is community technology?
-  </p>
+<h1 class="tc f2">Community</h1>
 
-## Wk 4 | Sep 23 | Community {#4}
+## Week 3 | Sep 16 {#3}
 
-  <p class="tc fw5">
-    Building mesh networks.
-  </p>
+What is community technology?
 
-## Wk 5 | Sep 30 | Community {#5}
+## Week 4 | Sep 23 {#4}
 
-  <p class="tc fw5">
-    The Philadelphia story.
-  </p>
+Building mesh networks.
 
-## Wk 6 | Oct 7 | Correspondence {#6}
+## Week 5 | Sep 30 {#5}
 
-  <p class="tc fw5">
-    Postal networks.
-    <br/><i>Midterm examination week.</i>
-  </p>
+The Philadelphia story.
 
-## Wk 7 | Oct 14 | Correspondence {#7}
+<h1 class="tc f2">Correspondence</h1>
 
-  <p class="tc fw5">
-    The epistolary novel.
-    <br/><i>Fall Recess, preceding Mon & Tue.</i>
-  </p>
+## Week 6 | Oct 7 {#6}
 
-## Wk 8 | Oct 21 | Correspondence {#8}
+Postal networks.
 
-  <p class="tc fw5">
-    Visualizing the republic of letters.
-  </p>
+*Midterm examination week.*
 
-## Wk 9 | Oct 28 | Form {#9}
+## Week 7 | Oct 14 {#7}
 
-  <p class="tc fw5">
-    The book as a textual container.
-  </p>
+The epistolary novel.
 
-## Wk 10 | Nov 4 | Form {#10}
+*Fall Recess, preceding Mon & Tue.*
 
-  <p class="tc fw5">
-    History of text technologies.
-  </p>
+## Week 8 | Oct 21 {#8}
 
-## Wk 11 | Nov 11 | Form {#11}
+Visualizing the republic of letters.
 
-  <p class="tc fw5">
-    Theories of textuality.
-  </p>
+<h1 class="tc f2">Form & Content</h1>
 
-## Wk 12 | Nov 18 | Closing {#12}
+## Week 9 | Oct 28 {#9}
+
+The book as a textual container.
+
+## Week 10 | Nov 4 {#10}
+
+History of text technologies.
+
+## Week 11 | Nov 11 {#11}
+
+Theories of textuality.
+
+<h1 class="tc f2">Closing</h1>
+
+## Week 12 | Nov 18 {#12}
 
 # {{< sms >}} Administrivia {#admin}
