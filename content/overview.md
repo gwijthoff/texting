@@ -41,17 +41,17 @@ Elaine Treharne and Claude Willan, *Text Technologies: A History* (2019)
 
 # {{< sms >}} Schedule {#schedule}
 
-<h1 class="tc f2">Introductions</h1>
+<h1 class="tc f2 fw5">Introductions</h1>
 
 ## Week 1 | Sep 2 {#1}
 
-Texting in a pandemic.
+[Texting in a pandemic.]({{< ref "/sessions/1" >}})
 
 ## Week 2 | Sep 9 {#2}
 
 The history of SMS.
 
-<h1 class="tc f2">Community</h1>
+<h1 class="tc f2 fw5">Community</h1>
 
 ## Week 3 | Sep 16 {#3}
 
@@ -59,13 +59,13 @@ What is community technology?
 
 ## Week 4 | Sep 23 {#4}
 
-Building mesh networks.
+Digital equity and mesh networks.
 
 ## Week 5 | Sep 30 {#5}
 
-The Philadelphia story.
+The situation in Philadelphia.
 
-<h1 class="tc f2">Correspondence</h1>
+<h1 class="tc f2 fw5">Correspondence</h1>
 
 ## Week 6 | Oct 7 {#6}
 
@@ -83,7 +83,7 @@ The epistolary novel.
 
 Visualizing the republic of letters.
 
-<h1 class="tc f2">Form & Content</h1>
+<h1 class="tc f2 fw5">Form & Content</h1>
 
 ## Week 9 | Oct 28 {#9}
 
@@ -97,7 +97,7 @@ History of text technologies.
 
 Theories of textuality.
 
-<h1 class="tc f2">Closing</h1>
+<h1 class="tc f2 fw5">Closing</h1>
 
 ## Week 12 | Nov 18 {#12}
 

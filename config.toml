@@ -1,6 +1,6 @@
 baseURL = "https://gwijthoff.github.io/texting/"
 languageCode = "en-us"
-title = "Privacy, Publicity, and the Text Message"
+title = "Privacy, Publicity, & the Text Message"
 theme = "texting-hugo"
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 enableEmoji = true

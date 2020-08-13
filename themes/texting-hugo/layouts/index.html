@@ -4,21 +4,13 @@
 
 {{ partial "header.html" . }}
 
-{{ range sort (where .Site.AllPages "Type" "overview") ".Params.order" }}
-	<div class="mw7 center measure pa3">
-		<div class="section-nav tc">
-			<a href="#top">☝︎</a> •
-			<a href="#description">About</a> •
-			<a href="#schedule">Schedule</a> •
-			<a href="#admin">Admin</a> •
-			<a href="#bottom">☟</a>
-			<br/>
-			<br/>
-		</div>
-    <div>
-      {{ with .Content }} {{ . }} {{ end }}
-    </div>
-	</div>
+{{ partial "nav.html" . }}
+
+<div>
+	{{ range sort (where .Site.AllPages "Type" "overview") ".Params.order" }}
+  {{ with .Content }} {{ . }} {{ end }}
+</div>
+
 {{ end }}
 
 {{ end }}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sessions on Privacy, Publicity, &amp; the Text Message</title>
+    <link>https://gwijthoff.github.io/texting/sessions/</link>
+    <description>Recent content in Sessions on Privacy, Publicity, &amp; the Text Message</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://gwijthoff.github.io/texting/sessions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 1</title>
+      <link>https://gwijthoff.github.io/texting/sessions/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gwijthoff.github.io/texting/sessions/1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo. Enim lobortis scelerisque fermentum dui faucibus in ornare quam. Dictum fusce ut placerat orci nulla pellentesque. Euismod in pellentesque massa placerat. Vestibulum sed arcu non odio euismod lacinia.1
+Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Massa ultricies mi quis hendrerit dolor magna eget est.</description>
+    </item>
+    
+  </channel>
+</rss>

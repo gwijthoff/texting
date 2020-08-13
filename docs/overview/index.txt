@@ -8,7 +8,7 @@ Office Hours: Tue: 3:00-5:00  Description This seminar will explore how we negot
 Students will apply methods from literary theory and textual criticism to text messages. They will learn about the technical standards of SMS, now twenty years old. Readings on virality, surveillance, leaks, and migration and mobile media will be paired with lab experiments in telegraphy, encrypted messaging, and community mesh networks.
 ❀
 view all
-exercises  list of
+experiments  list of
 readings    ❀
 Objectives This course is devoted to developing critical data literacies. This means that students will:
  review the numerical and categorical information that is collected about them when using social media and messaging platforms, learn how, where, and by whom their texts are encoded, transmitted, and stored, and experiment with alternative messaging platforms that will require them to learn some basic computational tools.  Experiments will be prepared during 2hr class discussions and conducted during 1hr practicum sessions, to take place at a time of each student&amp;rsquo;s choosing. No prior experience with code or critical theory is required.
@@ -18,8 +18,8 @@ Elaine Treharne and Claude Willan, Text Technologies: A History (2019)
 Schedule Introductions Week 1 | Sep 2 Texting in a pandemic.
 Week 2 | Sep 9 The history of SMS.
 Community Week 3 | Sep 16 What is community technology?
-Week 4 | Sep 23 Building mesh networks.
-Week 5 | Sep 30 The Philadelphia story.
+Week 4 | Sep 23 Digital equity and mesh networks.
+Week 5 | Sep 30 The situation in Philadelphia.
 Correspondence Week 6 | Oct 7 Postal networks.
 Midterm examination week.
 Week 7 | Oct 14 The epistolary novel.

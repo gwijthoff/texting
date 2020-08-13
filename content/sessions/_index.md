@@ -1,4 +1,4 @@
 ---
 type: article
-title: Updates
+title: Sessions
 ---
