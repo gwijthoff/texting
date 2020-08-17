@@ -1,0 +1,33 @@
+{{ define "main" }}
+	<main>
+	</main>
+	{{ partial "header-page.html" . }}
+
+	{{ partial "nav-page.html" . }}
+
+	<div class="mw6 center bb tc">
+		<h1>{{ .Params.Title }}</h1>
+		<p class="f3">{{ .Params.When }}<br>{{ .Params.What }}</p>
+	</div>
+
+	<br/>
+	<br/>
+
+	<div class="mw6 measure">
+
+		{{/* loop over practica */}}
+		{{ range where (where .Site.AllPages "Type" "practicum") ".Params.layout" "single" }}
+
+			<span class="f3">
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
+			</span>
+			<p>
+				{{ .Summary }}
+			</p>
+			<br/>
+
+		{{ end }}
+  </div>
+
+
+{{ end }}
