@@ -1,4 +1,4 @@
 ---
-type: article
+type: session
 title: Sessions
 ---

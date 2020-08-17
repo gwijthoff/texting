@@ -9,7 +9,7 @@ layout: single
 
 ### Wed, 1:30–3:20 +Practicum
 
-### Professor Grant Wythoff<br>gwythoff@princeton.edu<br>Office Hours: Tue: 3:00-5:00
+### Professor Grant Wythoff<br>gwythoff@princeton.edu<br>Office Hours: Tue 3—5
 
 </div>
 
@@ -39,6 +39,8 @@ Amaranth Borsuk, *The Book* (2018)
 
 Elaine Treharne and Claude Willan, *Text Technologies: A History* (2019)
 
+{{< break >}}
+
 # {{< sms >}} Schedule {#schedule}
 
 <h1 class="tc f2 fw5">Introductions</h1>
@@ -49,56 +51,58 @@ Elaine Treharne and Claude Willan, *Text Technologies: A History* (2019)
 
 ## Week 2 | Sep 9 {#2}
 
-The history of SMS.
+[The history of SMS.]({{< ref "/sessions/2" >}})
 
 <h1 class="tc f2 fw5">Community</h1>
 
 ## Week 3 | Sep 16 {#3}
 
-What is community technology?
+[What is community technology?]({{< ref "/sessions/3" >}})
 
 ## Week 4 | Sep 23 {#4}
 
-Digital equity and mesh networks.
+[Digital equity and mesh networks.]({{< ref "/sessions/4" >}})
 
 ## Week 5 | Sep 30 {#5}
 
-The situation in Philadelphia.
+[The situation in Philadelphia.]({{< ref "/sessions/5" >}})
 
 <h1 class="tc f2 fw5">Correspondence</h1>
 
 ## Week 6 | Oct 7 {#6}
 
-Postal networks.
-
-*Midterm examination week.*
+[Postal networks.]({{< ref "/sessions/6" >}})
 
 ## Week 7 | Oct 14 {#7}
 
-The epistolary novel.
+[The epistolary novel.]({{< ref "/sessions/7" >}})
 
-*Fall Recess, preceding Mon & Tue.*
+*Fall Recess: no synchronous meeting.*
 
 ## Week 8 | Oct 21 {#8}
 
-Visualizing the republic of letters.
+[Visualizing the republic of letters.]({{< ref "/sessions/8" >}})
 
-<h1 class="tc f2 fw5">Form & Content</h1>
+<h1 class="tc f2 fw5">Medium & Message</h1>
 
 ## Week 9 | Oct 28 {#9}
 
-The book as a textual container.
+[Theories of textuality.]({{< ref "/sessions/9" >}})
 
 ## Week 10 | Nov 4 {#10}
 
-History of text technologies.
+[History of text technologies.]({{< ref "/sessions/10" >}})
 
 ## Week 11 | Nov 11 {#11}
 
-Theories of textuality.
+[The book as a textual container.]({{< ref "/sessions/11" >}})
 
 <h1 class="tc f2 fw5">Closing</h1>
 
 ## Week 12 | Nov 18 {#12}
+
+[Presentations and farewells.]({{< ref "/sessions/12" >}})
+
+{{< break >}}
 
 # {{< sms >}} Administrivia {#admin}
