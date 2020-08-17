@@ -1,0 +1,35 @@
++---------------------------------------------------------------->
+|
+|   __  __  __  __  __    __  ______  __   __  __  ______  ______
+|  /\ \_\ \/\ \/\ \/\ "-./  \/\  __ \/\ "-.\ \/\ \/\  ___\/\__  _\
+|  \ \  __ \ \ \_\ \ \ \-./\ \ \  __ \ \ \-.  \ \ \ \___  \/_/\ \/
+|   \ \_\ \_\ \_____\ \_\ \ \_\ \_\ \_\ \_\\"\_\ \_\/\_____\ \ \_\
+|    \/_/\/_/\/_____/\/_/  \/_/\/_/\/_/\/_/ \/_/\/_/\/_____/  \/_/
+|   __    __  __  __  ______ __  __  ______  __
+|  /\ "-./  \/\ \/\ \/\__  _/\ \/\ \/\  __ \/\ \
+|  \ \ \-./\ \ \ \_\ \/_/\ \\ \ \_\ \ \  __ \ \ \____
+|  \ \_\ \ \_\ \_____\ \ \_\\ \_____\ \_\ \_\ \_____\
+|    \/_/  \/_/\/_____/  \/_/ \/_____/\/_/\/_/\/_____/
+|   ______  __  _____
+|  /\  __ \/\ \/\  __-.
+|  \ \  __ \ \ \ \ \/\ \
+|   \ \_\ \_\ \_\ \____-
+|    \/_/\/_/\/_/\/____/
+|
++---------------------------------------------------------------->
+|
+|  "Experiment with SMS-based apps and art."
+|
+|  Authors:
+|  
+|
+|  January 0001
+|
+|  https://gwijthoff.github.io/texting/practica/dumbstore/
+|
++---------------------------------------------------------------->
+
+
+Including the Dumbstore and other interactive text projects.
+
+SMS apps and services  Not sure it belongs in this section but as a very reluctant smartphone adopter, I used to live by the The Dumbstore, for reluctant smartphone adopters. Now only available on the wayback machine.  and maybe this github repo   a list of other SMS-based apps and services  SMS art  Tamar Zohara Ettun, How to Trap a Demon. Uses the simpletexting.com app. More on the project here. Send Me SFMOMA, unfortunately no longer active!  “Text 572-51 with the words “send me” followed by a keyword, a color, or even an emoji and you’ll receive a related artwork image and caption via text message. For example “send me the ocean” might get you Pirkle Jones’ Breaking Wave, Golden Gate; “send me something blue” could result in Éponge (SE180) by Yves Klein; and “send me ?” might return Yasumasa Morimura’s An Inner Dialogue with Frida Kahlo (Collar of Thorns). Each text message triggers a query to the SFMOMA collection API, which then responds with an artwork matching your request.”   

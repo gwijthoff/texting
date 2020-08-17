@@ -29,7 +29,7 @@
 |  Privacy, Publicity, &amp; the Text Message
 |
 |  Updated:
-|  August 13, 2020
+|  August 17, 2020
 |
 |  Read More At:
 |  https://gwijthoff.github.io/texting/
@@ -48,7 +48,7 @@
 
 ### Wed, 1:30–3:20 &#43;Practicum
 
-### Professor Grant Wythoff&lt;br&gt;gwythoff@princeton.edu&lt;br&gt;Office Hours: Tue: 3:00-5:00
+### Professor Grant Wythoff&lt;br&gt;gwythoff@princeton.edu&lt;br&gt;Office Hours: Tue 3—5
 
 &lt;/div&gt;
 
@@ -78,6 +78,8 @@ Amaranth Borsuk, *The Book* (2018)
 
 Elaine Treharne and Claude Willan, *Text Technologies: A History* (2019)
 
+{{&lt; break &gt;}}
+
 # {{&lt; sms &gt;}} Schedule {#schedule}
 
 &lt;h1 class=&#34;tc f2 fw5&#34;&gt;Introductions&lt;/h1&gt;
@@ -88,56 +90,58 @@ Elaine Treharne and Claude Willan, *Text Technologies: A History* (2019)
 
 ## Week 2 | Sep 9 {#2}
 
-The history of SMS.
+[The history of SMS.]({{&lt; ref &#34;/sessions/2&#34; &gt;}})
 
 &lt;h1 class=&#34;tc f2 fw5&#34;&gt;Community&lt;/h1&gt;
 
 ## Week 3 | Sep 16 {#3}
 
-What is community technology?
+[What is community technology?]({{&lt; ref &#34;/sessions/3&#34; &gt;}})
 
 ## Week 4 | Sep 23 {#4}
 
-Digital equity and mesh networks.
+[Digital equity and mesh networks.]({{&lt; ref &#34;/sessions/4&#34; &gt;}})
 
 ## Week 5 | Sep 30 {#5}
 
-The situation in Philadelphia.
+[The situation in Philadelphia.]({{&lt; ref &#34;/sessions/5&#34; &gt;}})
 
 &lt;h1 class=&#34;tc f2 fw5&#34;&gt;Correspondence&lt;/h1&gt;
 
 ## Week 6 | Oct 7 {#6}
 
-Postal networks.
-
-*Midterm examination week.*
+[Postal networks.]({{&lt; ref &#34;/sessions/6&#34; &gt;}})
 
 ## Week 7 | Oct 14 {#7}
 
-The epistolary novel.
+[The epistolary novel.]({{&lt; ref &#34;/sessions/7&#34; &gt;}})
 
-*Fall Recess, preceding Mon &amp; Tue.*
+*Fall Recess: no synchronous meeting.*
 
 ## Week 8 | Oct 21 {#8}
 
-Visualizing the republic of letters.
+[Visualizing the republic of letters.]({{&lt; ref &#34;/sessions/8&#34; &gt;}})
 
-&lt;h1 class=&#34;tc f2 fw5&#34;&gt;Form &amp; Content&lt;/h1&gt;
+&lt;h1 class=&#34;tc f2 fw5&#34;&gt;Medium &amp; Message&lt;/h1&gt;
 
 ## Week 9 | Oct 28 {#9}
 
-The book as a textual container.
+[Theories of textuality.]({{&lt; ref &#34;/sessions/9&#34; &gt;}})
 
 ## Week 10 | Nov 4 {#10}
 
-History of text technologies.
+[History of text technologies.]({{&lt; ref &#34;/sessions/10&#34; &gt;}})
 
 ## Week 11 | Nov 11 {#11}
 
-Theories of textuality.
+[The book as a textual container.]({{&lt; ref &#34;/sessions/11&#34; &gt;}})
 
 &lt;h1 class=&#34;tc f2 fw5&#34;&gt;Closing&lt;/h1&gt;
 
 ## Week 12 | Nov 18 {#12}
+
+[Presentations and farewells.]({{&lt; ref &#34;/sessions/12&#34; &gt;}})
+
+{{&lt; break &gt;}}
 
 # {{&lt; sms &gt;}} Administrivia {#admin} 

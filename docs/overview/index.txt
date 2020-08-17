@@ -4,30 +4,32 @@
 AMS 343 / ENG 238
 Fall 2020 Wed, 1:30–3:20 &#43;Practicum Professor Grant Wythoff
 gwythoff@princeton.edu
-Office Hours: Tue: 3:00-5:00  Description This seminar will explore how we negotiate the distance between ourselves and others through text messages. Texts sustain an ambient intimacy that is increasingly redefining borders that range from the interpersonal—via anonymous mental health support—to the international—via reporting platforms for immigrant communities. What technical and social expectations of privacy do we operate with when sending a point-to-point message? How do novelists incorporate text messages into works of fiction? What does it mean that Frank Ocean can sing, “you text nothing like you look”?
+Office Hours: Tue 3—5  Description This seminar will explore how we negotiate the distance between ourselves and others through text messages. Texts sustain an ambient intimacy that is increasingly redefining borders that range from the interpersonal—via anonymous mental health support—to the international—via reporting platforms for immigrant communities. What technical and social expectations of privacy do we operate with when sending a point-to-point message? How do novelists incorporate text messages into works of fiction? What does it mean that Frank Ocean can sing, “you text nothing like you look”?
 Students will apply methods from literary theory and textual criticism to text messages. They will learn about the technical standards of SMS, now twenty years old. Readings on virality, surveillance, leaks, and migration and mobile media will be paired with lab experiments in telegraphy, encrypted messaging, and community mesh networks.
 ❀
 view all
-experiments  list of
+practica  list of
 readings    ❀
 Objectives This course is devoted to developing critical data literacies. This means that students will:
  review the numerical and categorical information that is collected about them when using social media and messaging platforms, learn how, where, and by whom their texts are encoded, transmitted, and stored, and experiment with alternative messaging platforms that will require them to learn some basic computational tools.  Experiments will be prepared during 2hr class discussions and conducted during 1hr practicum sessions, to take place at a time of each student&amp;rsquo;s choosing. No prior experience with code or critical theory is required.
 Required Books Joanne McNeil, Lurking: How a Person Became a User (2020)
 Amaranth Borsuk, The Book (2018)
 Elaine Treharne and Claude Willan, Text Technologies: A History (2019)
+❀
 Schedule Introductions Week 1 | Sep 2 Texting in a pandemic.
 Week 2 | Sep 9 The history of SMS.
 Community Week 3 | Sep 16 What is community technology?
 Week 4 | Sep 23 Digital equity and mesh networks.
 Week 5 | Sep 30 The situation in Philadelphia.
 Correspondence Week 6 | Oct 7 Postal networks.
-Midterm examination week.
 Week 7 | Oct 14 The epistolary novel.
-Fall Recess, preceding Mon &amp;amp; Tue.
+Fall Recess: no synchronous meeting.
 Week 8 | Oct 21 Visualizing the republic of letters.
-Form &amp; Content Week 9 | Oct 28 The book as a textual container.
+Medium &amp; Message Week 9 | Oct 28 Theories of textuality.
 Week 10 | Nov 4 History of text technologies.
-Week 11 | Nov 11 Theories of textuality.
-Closing Week 12 | Nov 18 Administrivia 
+Week 11 | Nov 11 The book as a textual container.
+Closing Week 12 | Nov 18 Presentations and farewells.
+❀
+Administrivia 
 
 https://gwijthoff.github.io/texting/overview/

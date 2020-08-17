@@ -18,30 +18,24 @@
 |
 +---------------------------------------------------------------->
 |
-|  "Week 1"
+|  "Week 4"
 |
 |  Authors:
 |  
 |
 |  January 0001
 |
-|  https://gwijthoff.github.io/texting/sessions/1/
+|  https://gwijthoff.github.io/texting/sessions/4/
 |
 +---------------------------------------------------------------->
 
 
-Introducing ourselves; deciding on course logistics; outlining units, sessions, and themes for the semester.
+🚧
 
-📚 Read:  Nothing  📺 Watch:  Nothing  🎧 Listen:  Nothing  ✏️ Write:  Still Nothing  ❀
+Before Class 📚 Read:  TK  📺 Watch:  Meet the People Building Their Own Internet in Detroit, Vice  🎧 Listen:  Interview with Nicol Turner Lee, director of the Center for Technology Innovation at the Brookings Institution, on the FCC&amp;rsquo;s Broadband podcast (29:22) another interview with Lee from 2018, Who’s left out by America’s digital divide? on the Brookings Cafeteria podcast (1:01:06)  ❀
 
-Related Links on community technology Philly Community Wireless Project
+Practicum Portable Network Kit, part 2
 
-Community Tech NY
+❀
 
-on Sumerian bullae, c. 8000 BCE Schmandt-Besserat, Denise. How Writing Came About. Austin: University of Texas Press, 1996.
-
-on pandemic Internet habits &amp;ldquo;The Virus Changed the Way We Internet,&amp;rdquo; The New York Times, April 7, 2020
-
-&amp;ldquo;How&amp;rsquo;s the Internet Doing? Depends Where You Look,&amp;rdquo; Bloomberg Opinion, April 8, 2020
-
-
+Related Links maintenance and mobility  Ahmed, Syed Ishtiaque, Nusrat Jahan Mim, and Steven J. Jackson. “Residual Mobilities: Infrastructural Displacement and Post-Colonial Computing in Bangladesh.” (2015)  the digital divide  André Brock on the digital divide open access edition  community mesh  Rory Solomon, Meshiness  

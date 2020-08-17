@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Practica on Privacy, Publicity, &amp; the Text Message</title>
+    <link>https://gwijthoff.github.io/texting/practica/</link>
+    <description>Recent content in Practica on Privacy, Publicity, &amp; the Text Message</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://gwijthoff.github.io/texting/practica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Build a working telegraph.</title>
+      <link>https://gwijthoff.github.io/texting/practica/telegraph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gwijthoff.github.io/texting/practica/telegraph/</guid>
+      <description>&lt;p&gt;See how many words per minute you can key in Morse code.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Download and analyze the texts on your phone.</title>
+      <link>https://gwijthoff.github.io/texting/practica/graphtexts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gwijthoff.github.io/texting/practica/graphtexts/</guid>
+      <description>&lt;p&gt;Use them to graph the relationship between you and a friend.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Experiment with SMS-based apps and art.</title>
+      <link>https://gwijthoff.github.io/texting/practica/dumbstore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gwijthoff.github.io/texting/practica/dumbstore/</guid>
+      <description>&lt;p&gt;Including the Dumbstore and other interactive text projects.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Text using a T9 keypad.</title>
+      <link>https://gwijthoff.github.io/texting/practica/t9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gwijthoff.github.io/texting/practica/t9/</guid>
+      <description>&lt;p&gt;An exercise in technics of the 2000s.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What does 💬 actually mean?</title>
+      <link>https://gwijthoff.github.io/texting/practica/ellipsis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gwijthoff.github.io/texting/practica/ellipsis/</guid>
+      <description>&lt;p&gt;An exploration of what the animated ellipsis indicates, on a number of messaging platforms.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Write a letter to your classmate.</title>
+      <link>https://gwijthoff.github.io/texting/practica/letters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gwijthoff.github.io/texting/practica/letters/</guid>
+      <description>Test text.</description>
+    </item>
+    
+  </channel>
+</rss>

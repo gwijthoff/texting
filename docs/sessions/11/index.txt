@@ -18,30 +18,24 @@
 |
 +---------------------------------------------------------------->
 |
-|  "Week 1"
+|  "Week 11"
 |
 |  Authors:
 |  
 |
 |  January 0001
 |
-|  https://gwijthoff.github.io/texting/sessions/1/
+|  https://gwijthoff.github.io/texting/sessions/11/
 |
 +---------------------------------------------------------------->
 
 
-Introducing ourselves; deciding on course logistics; outlining units, sessions, and themes for the semester.
+🚧
 
-📚 Read:  Nothing  📺 Watch:  Nothing  🎧 Listen:  Nothing  ✏️ Write:  Still Nothing  ❀
+Before Class 📚 Read:  Borsuk, The Book, Chapter 2: the Book as Content Greetham, David. “A History of Textual Scholarship.” In The Cambridge Companion to Textual Scholarship, edited by Julia Flanders and Neil Fraistat, 16–41. Cambridge: Cambridge University Press, 2013. Cohen, Matt. “Time and the Bibliographer: A Meditation on the Spirit of Book Studies.” Textual Cultures 13, no. 1 (April 15, 2020): 179–206.  ❀
 
-Related Links on community technology Philly Community Wireless Project
+Practicum Experiment with SMS-based apps and art.
 
-Community Tech NY
+❀
 
-on Sumerian bullae, c. 8000 BCE Schmandt-Besserat, Denise. How Writing Came About. Austin: University of Texas Press, 1996.
-
-on pandemic Internet habits &amp;ldquo;The Virus Changed the Way We Internet,&amp;rdquo; The New York Times, April 7, 2020
-
-&amp;ldquo;How&amp;rsquo;s the Internet Doing? Depends Where You Look,&amp;rdquo; Bloomberg Opinion, April 8, 2020
-
-
+Related Links on theories of hypertext  George P. Landow, Hypertext: The Convergence of Contemporary Critical Theory and Technology (1992) The History of and Development of Hypertext and Hypertext Literary Theory Michael Joyce, afternoon, a story (1987)  

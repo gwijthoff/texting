@@ -18,30 +18,22 @@
 |
 +---------------------------------------------------------------->
 |
-|  "Week 1"
+|  "Download and analyze the texts on your phone."
 |
 |  Authors:
 |  
 |
 |  January 0001
 |
-|  https://gwijthoff.github.io/texting/sessions/1/
+|  https://gwijthoff.github.io/texting/practica/graphtexts/
 |
 +---------------------------------------------------------------->
 
 
-Introducing ourselves; deciding on course logistics; outlining units, sessions, and themes for the semester.
+Use them to graph the relationship between you and a friend.
 
-📚 Read:  Nothing  📺 Watch:  Nothing  🎧 Listen:  Nothing  ✏️ Write:  Still Nothing  ❀
+An exercise designed by Jérémie Lumbroso, who will join us in class. Read the instructions and download the software here.
 
-Related Links on community technology Philly Community Wireless Project
-
-Community Tech NY
-
-on Sumerian bullae, c. 8000 BCE Schmandt-Besserat, Denise. How Writing Came About. Austin: University of Texas Press, 1996.
-
-on pandemic Internet habits &amp;ldquo;The Virus Changed the Way We Internet,&amp;rdquo; The New York Times, April 7, 2020
-
-&amp;ldquo;How&amp;rsquo;s the Internet Doing? Depends Where You Look,&amp;rdquo; Bloomberg Opinion, April 8, 2020
+Throughout this practicum, we will ask: how do we understand ourselves through the digital traces we leave behind, both willingly and passively?
 
 

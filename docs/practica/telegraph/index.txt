@@ -1,0 +1,39 @@
++---------------------------------------------------------------->
+|
+|   __  __  __  __  __    __  ______  __   __  __  ______  ______
+|  /\ \_\ \/\ \/\ \/\ "-./  \/\  __ \/\ "-.\ \/\ \/\  ___\/\__  _\
+|  \ \  __ \ \ \_\ \ \ \-./\ \ \  __ \ \ \-.  \ \ \ \___  \/_/\ \/
+|   \ \_\ \_\ \_____\ \_\ \ \_\ \_\ \_\ \_\\"\_\ \_\/\_____\ \ \_\
+|    \/_/\/_/\/_____/\/_/  \/_/\/_/\/_/\/_/ \/_/\/_/\/_____/  \/_/
+|   __    __  __  __  ______ __  __  ______  __
+|  /\ "-./  \/\ \/\ \/\__  _/\ \/\ \/\  __ \/\ \
+|  \ \ \-./\ \ \ \_\ \/_/\ \\ \ \_\ \ \  __ \ \ \____
+|  \ \_\ \ \_\ \_____\ \ \_\\ \_____\ \_\ \_\ \_____\
+|    \/_/  \/_/\/_____/  \/_/ \/_____/\/_/\/_/\/_____/
+|   ______  __  _____
+|  /\  __ \/\ \/\  __-.
+|  \ \  __ \ \ \ \ \/\ \
+|   \ \_\ \_\ \_\ \____-
+|    \/_/\/_/\/_/\/____/
+|
++---------------------------------------------------------------->
+|
+|  "Build a working telegraph."
+|
+|  Authors:
+|  
+|
+|  January 0001
+|
+|  https://gwijthoff.github.io/texting/practica/telegraph/
+|
++---------------------------------------------------------------->
+
+
+See how many words per minute you can key in Morse code.
+
+There are several ways of going about this. We&amp;rsquo;ll decide on one together.
+
+ Following the lead of Rachel Sagner Buurma&amp;rsquo;s Critical Making: Telegraph &#43; Twitter class, we could use the tworsekey &amp;ldquo;open design exercise in interface archaeology that decodes the input from a classic Morse telegraph to send twitter messages.&amp;rdquo; The simple wood, copper, 9V battery key and sounder method. There&amp;rsquo;s a section on making a telegraph in The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm (2015), a tongue-in-cheek guide to DIY infrastructures for surviving the apocalypse.  And check out these Morse code emulators:
+
+ morsecode.me, a chat app for people who know Morse code, with rooms for beginners up to experts. Live transcription of messages on screen. Also transmits stories from Reuters, NY Times, and TechCrunch. ditdah MorseCode.World translator 

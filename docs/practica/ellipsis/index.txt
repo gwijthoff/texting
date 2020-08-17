@@ -18,30 +18,26 @@
 |
 +---------------------------------------------------------------->
 |
-|  "Week 1"
+|  "What does 💬 actually mean?"
 |
 |  Authors:
 |  
 |
 |  January 0001
 |
-|  https://gwijthoff.github.io/texting/sessions/1/
+|  https://gwijthoff.github.io/texting/practica/ellipsis/
 |
 +---------------------------------------------------------------->
 
 
-Introducing ourselves; deciding on course logistics; outlining units, sessions, and themes for the semester.
+An exploration of what the animated ellipsis indicates, on a number of messaging platforms.
 
-📚 Read:  Nothing  📺 Watch:  Nothing  🎧 Listen:  Nothing  ✏️ Write:  Still Nothing  ❀
+We&amp;rsquo;ll discuss phatic expressions, and what was once known as the rhythm or &amp;ldquo;fist&amp;rdquo; of telegraph operators.
 
-Related Links on community technology Philly Community Wireless Project
+Pair up and fan out, choosing a different messaging platform for each pair. Say &amp;ldquo;hello&amp;rdquo; to your classmate, start typing, and discuss the feedback provided by the interface. Does your partner have to be actively typing for a 💬 to appear on the other side? What happens if your partner enters text and stops typing, in order to think before sending? Does the 💬 remain?
 
-Community Tech NY
+If it&amp;rsquo;s easier, pairs can discuss what&amp;rsquo;s happening via Zoom or phone call as they type.
 
-on Sumerian bullae, c. 8000 BCE Schmandt-Besserat, Denise. How Writing Came About. Austin: University of Texas Press, 1996.
+Platforms to choose from:
 
-on pandemic Internet habits &amp;ldquo;The Virus Changed the Way We Internet,&amp;rdquo; The New York Times, April 7, 2020
-
-&amp;ldquo;How&amp;rsquo;s the Internet Doing? Depends Where You Look,&amp;rdquo; Bloomberg Opinion, April 8, 2020
-
-
+ Facebook messenger Instagram Slack WhatsApp iMessage Signal Google Hangouts SMS GroupMe 

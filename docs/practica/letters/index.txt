@@ -18,30 +18,18 @@
 |
 +---------------------------------------------------------------->
 |
-|  "Week 1"
+|  "Write a letter to your classmate."
 |
 |  Authors:
 |  
 |
 |  January 0001
 |
-|  https://gwijthoff.github.io/texting/sessions/1/
+|  https://gwijthoff.github.io/texting/practica/letters/
 |
 +---------------------------------------------------------------->
 
 
-Introducing ourselves; deciding on course logistics; outlining units, sessions, and themes for the semester.
-
-📚 Read:  Nothing  📺 Watch:  Nothing  🎧 Listen:  Nothing  ✏️ Write:  Still Nothing  ❀
-
-Related Links on community technology Philly Community Wireless Project
-
-Community Tech NY
-
-on Sumerian bullae, c. 8000 BCE Schmandt-Besserat, Denise. How Writing Came About. Austin: University of Texas Press, 1996.
-
-on pandemic Internet habits &amp;ldquo;The Virus Changed the Way We Internet,&amp;rdquo; The New York Times, April 7, 2020
-
-&amp;ldquo;How&amp;rsquo;s the Internet Doing? Depends Where You Look,&amp;rdquo; Bloomberg Opinion, April 8, 2020
+Test text.
 
 
