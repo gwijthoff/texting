@@ -30,10 +30,10 @@
 +---------------------------------------------------------------->
 
 
-Use them to graph the relationship between you and a friend.
+Use them to visualize patterns in the relationship between you and a friend.
 
-An exercise designed by Jérémie Lumbroso, who will join us in class. Read the instructions and download the software here.
+An exercise designed by Jérémie Lumbroso, who will join us in class. Download his GitHub repository here.
 
 Throughout this practicum, we will ask: how do we understand ourselves through the digital traces we leave behind, both willingly and passively?
 
-
+Notes  To get Jupyter Notebooks up and running, use the &amp;ldquo;Introduction to Jupyter Notebooks&amp;rdquo; tutorial from The Programming Historian. 
