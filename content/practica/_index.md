@@ -1,5 +1,7 @@
 ---
 type: practicum
 title: Practica
-what: Weekly exercises, conducted asynchronously.
+when: Weekly exercises, conducted asynchronously.
 ---
+
+Report on your results in the Slack `#practica` channel.
