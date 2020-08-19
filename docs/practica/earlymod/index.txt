@@ -1,0 +1,19 @@
++---------------------------------------------------------------->
+|
+|  "Read letters from the Renaissance."
+|
+|  Authors:
+|  
+|
+|  January 0001
+|
+|  https://gwijthoff.github.io/texting/practica/earlymod/
+|
++---------------------------------------------------------------->
+
+
+Analyze data from Early Modern Letters Online.
+
+Details to come. Read more about Early Modern Letters Online and the Networking Archives project.
+
+

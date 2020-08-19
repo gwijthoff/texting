@@ -7,7 +7,15 @@
   </url>
   
   <url>
+    <loc>https://gwijthoff.github.io/texting/assignments/</loc>
+  </url>
+  
+  <url>
     <loc>https://gwijthoff.github.io/texting/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gwijthoff.github.io/texting/practica/pnk/</loc>
   </url>
   
   <url>
@@ -23,6 +31,10 @@
   </url>
   
   <url>
+    <loc>https://gwijthoff.github.io/texting/assignments/final/</loc>
+  </url>
+  
+  <url>
     <loc>https://gwijthoff.github.io/texting/orders/</loc>
   </url>
   
@@ -35,6 +47,14 @@
   </url>
   
   <url>
+    <loc>https://gwijthoff.github.io/texting/practica/minimalism/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gwijthoff.github.io/texting/practica/earlymod/</loc>
+  </url>
+  
+  <url>
     <loc>https://gwijthoff.github.io/texting/sessions/</loc>
   </url>
   
@@ -44,10 +64,6 @@
   
   <url>
     <loc>https://gwijthoff.github.io/texting/practica/t9/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gwijthoff.github.io/texting/types/</loc>
   </url>
   
   <url>
@@ -103,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://gwijthoff.github.io/texting/practica/letters/</loc>
+    <loc>https://gwijthoff.github.io/texting/assignments/letters/</loc>
   </url>
   
 </urlset>

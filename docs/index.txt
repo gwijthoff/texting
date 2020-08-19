@@ -29,7 +29,7 @@
 |  Privacy, Publicity, &amp; the Text Message
 |
 |  Updated:
-|  August 18, 2020
+|  August 19, 2020
 |
 |  Read More At:
 |  https://gwijthoff.github.io/texting/
@@ -56,7 +56,7 @@
 
 This seminar will explore how we negotiate the distance between ourselves and others through text messages. Texts sustain an ambient intimacy that is increasingly redefining borders that range from the interpersonal—via anonymous mental health support—to the international—via reporting platforms for immigrant communities. What technical and social expectations of privacy do we operate with when sending a point-to-point message? How do novelists incorporate text messages into works of fiction? What does it mean that Frank Ocean [can sing](https://www.youtube.com/watch?v=ZnnwfgqdEGM), “you text nothing like you look”?
 
-Students will apply methods from literary theory and textual criticism to text messages. They will learn about the technical standards of SMS, now twenty years old. Readings on virality, surveillance, leaks, and migration and mobile media will be paired with lab experiments in telegraphy, encrypted messaging, and community mesh networks.
+Students will apply methods from literary theory to text messages. They will learn about the technical standards of SMS, now twenty years old. Readings on epistolary novels, postal networks, and textual criticism will be paired with practica on telegraphy, T9, and community mesh networks. As a class that takes place remotely, we will explore what is needed to maintain our connections during a pandemic, both as individuals and as communities. To that end, we will also have the opportunity to work with the Philly Community Wireless Project, an organization devoted to digital equity and Internet accessibility.
 
 {{&lt; units &gt;}}
 
@@ -68,7 +68,7 @@ This course is devoted to developing critical data literacies. This means that s
 2) learn how, where, and by whom their texts are encoded, transmitted, and stored, and
 3) experiment with alternative messaging platforms that will require them to learn some basic computational tools.
 
-Experiments will be prepared during 2hr class discussions and conducted during 1hr practicum sessions, to take place at a time of each student&#39;s choosing. No prior experience with code or critical theory is required.
+No prior experience with code or critical theory is required.
 
 ## Required Books {#books}
 
@@ -132,6 +132,8 @@ Elaine Treharne and Claude Willan, *Text Technologies: A History* (2019)
 
 [History of text technologies.]({{&lt; ref &#34;/sessions/10&#34; &gt;}})
 
+*VOTE!*
+
 ## Week 11 | Nov 11 {#11}
 
 [The book as a textual container.]({{&lt; ref &#34;/sessions/11&#34; &gt;}})
@@ -144,4 +146,27 @@ Elaine Treharne and Claude Willan, *Text Technologies: A History* (2019)
 
 {{&lt; break &gt;}}
 
-# {{&lt; sms &gt;}} Administrivia {#admin} 
+# {{&lt; sms &gt;}} Administrative {#admin}
+
+## COVID Caveat
+
+
+
+## General Notes
+
+If there’s a construction icon (🚧) at the top of a page, that means it&#39;s still in process, subject to change, and open to your input!
+
+If any student would like contribute or make edits to the course site via GitHub, feel free to submit a pull request. I just ask that anyone who does so teach one of their classmates who has never used GitHub (or markdown, the command line, or static sites) about the process as they make their edits.
+
+## Honor Code
+
+I regard plagiarism as a very serious matter. In this class, plagiarism consists of work taken partially or entirely from an uncited source (the Internet, a peer, a published article, etc.) and assumed as your own. Evidence of violating these guidelines will result in submission of the case to the Committee on Discipline. No one wants that to happen. It is therefore your responsibility, if you are unsure of what is and what is not allowed, to discuss the assignment with your instructor and then to adhere to the instructor’s guidelines rigorously.
+
+## Equal Access
+
+The Office of Disability Services (ODS) offers a range of services to ensure that students with disabilities have equal access to Princeton&#39;s academic and extracurricular opportunities. The office facilitates reasonable academic accommodations for qualified students who have submitted documentation verifying a disability. More information is available at [princeton.edu/ods](www.princeton.edu/ods).
+
+## Wellbeing
+
+Many students face personal challenges or have psychological needs that may interfere with their academic progress, social development, or emotional wellbeing. The university offers a variety of confidential services to help you through difficult times, including individual and group counseling, crisis intervention, consultations, online chats, and mental health screenings. These services are provided by staff who welcome all students and embrace a philosophy respectful of clients’ cultural and religious backgrounds, and sensitive to differences in race, ability, gender identity and sexual orientation. Call 609-258-3141 or walk-in during business hours to make an appointment for an initial 20-minute consultation. You can also schedule your initial consultation appointment online at [princeton.edu/MyUHS](http://princeton.edu/MyUHS).
+ 

@@ -1,0 +1,19 @@
++---------------------------------------------------------------->
+|
+|  "Build a Portable Network Kit."
+|
+|  Authors:
+|  
+|
+|  January 0001
+|
+|  https://gwijthoff.github.io/texting/practica/pnk/
+|
++---------------------------------------------------------------->
+
+
+Following a mesh tutorial designed by Community Tech NY.
+
+Details to follow. See CTNY&amp;rsquo;s profile of the project here.
+
+

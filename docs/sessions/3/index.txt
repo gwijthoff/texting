@@ -40,7 +40,7 @@ The key differences between one-to-one messaging, one-to-few group chats, and on
 
 Before Class 📚 Read:  Claire Park, “Community Broadband: The Fast, Affordable Internet Option That’s Flying Under the Radar.” New America Foundation (May 2020) Greta Byrum, “Building the People’s Internet.” Urban Omnibus, October 2, 2019. Browse and review:  Community Technology Collective website Diana Nucera, ed., Teaching Community Technology Handbook, Detroit Community Technology Project    📺 Watch:  &amp;ldquo;Intro to Community Technology&amp;rdquo; panel at the 2020 Allied Media Conference. To be posted later here? Might also be on CTC site  ❀
 
-Practicum Portable Network Kit, part 1
+Practicum Build a Portable Network Kit, part 1
 
 ❀
 
