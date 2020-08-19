@@ -1,0 +1,16 @@
++---------------------------------------------------------------->
+|
+|  "{{ .Title }}"
+|
+|  Authors:
+|  {{ range .Params.Authors }}
+|     {{ . }}{{ end }}
+|
+|  {{ .Parent.Date.Format "January 2006" }}
+|
+|  {{ .Permalink }}
+|
++---------------------------------------------------------------->
+
+{{/* double newlines to put blank lines between paragraphs */}}
+{{ replace .Plain "\n" "\n\n" }}

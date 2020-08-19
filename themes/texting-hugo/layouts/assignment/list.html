@@ -1,0 +1,17 @@
+{{ define "main" }}
+	<main>
+	</main>
+	{{ partial "header-page.html" . }}
+
+	{{ partial "nav-page.html" . }}
+
+	<div class="mw6 center bb tc">
+		<h1>{{ .Params.Title }}</h1>
+		<p class="f3">{{ .Params.What }}</p>
+	</div>
+
+	<br/>
+	<p>{{ .Content }}</p>
+	<br/>
+
+{{ end }}
