@@ -23,7 +23,7 @@ Students will apply methods from literary theory to text messages. They will lea
 
 ## Objectives {#objectives}
 
-This course is devoted to developing critical data literacies. This means that students will:
+This course centers on critical data literacies. This means that students will:
 
 1) review the numerical and categorical information that is collected about them when using social media and messaging platforms,
 2) learn how, where, and by whom their texts are encoded, transmitted, and stored, and
