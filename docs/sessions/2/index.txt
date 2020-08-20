@@ -30,16 +30,14 @@
 +---------------------------------------------------------------->
 
 
-🚧
-
 Overview of the roots of SMS as a technical standard, its current state, and its proposed replacement: the Rich Communication Standard (RCS).
 
-Get everyone set up with course platforms.
+Make sure everyone is set up with course platforms.
 
-Before Class 📚 Read:  Scott B. Weingart, &amp;ldquo;The Route of a Text Message, a Love Story&amp;rdquo; Amelia Acker, &amp;ldquo;The Global System for Mobile Communication: The Hidden Influence of Standards in Text Messaging and Wireless Communication&amp;rdquo;  🎧 Listen:  &amp;ldquo;Thank You, Text.&amp;rdquo; Reset podcast  ✏️ Write:  a letter to your classmate a response to the following questions on the readings [TK]  ❀
+Before Class 📚 Read:  Scott B. Weingart, &amp;ldquo;The Route of a Text Message, a Love Story&amp;rdquo;  🎧 Listen:  &amp;ldquo;Thank You, Text.&amp;rdquo; Reset podcast  ✏️ Write:  answers to these #response-questions  A single text message has to pass through many &amp;ldquo;layers&amp;rdquo; of translation and transmission. Explain how one of those layers works, as described by Weingart. What is one problem with the new Rich Communication Standard (RCS), as it&amp;rsquo;s currently proposed?    ❀
 
 Practicum What does the animated ellipsis (i.e. 💬) actually indicate on various messaging platforms?
 
 ❀
 
-Related Links 
+Related Links  Amelia Acker, &amp;ldquo;The Global System for Mobile Communication: The Hidden Influence of Standards in Text Messaging and Wireless Communication&amp;rdquo;  

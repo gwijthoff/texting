@@ -12,12 +12,8 @@
 +---------------------------------------------------------------->
 
 
-🚧
+A range of formats are possible for your final project, from essays to datasets, from visualizations to research reports for community organizations. You can work individually, or in pairs or groups on your final projects. You should begin thinking about your final project around Fall Recess, and consult with me on your idea beginning Week 8 / Oct 21.
 
-There are several different &amp;ldquo;tracks&amp;rdquo; that run throughout this course: community technology, literary and cultural studies, or digital humanities. Focusing on one track will allow students to rehearse their final project ideas through readings or practica in each of those tracks throughout the term.
+We&amp;rsquo;ll keep a running list of project ideas below, organized by the different disciplinary tracks that run throughout the course: community technology, literary and cultural studies, or digital humanities. You can also use one of our practica as a starting point for your final project.
 
-Students can work in pairs or groups on their final projects.
-
-We&amp;rsquo;ll keep a running list of project ideas below. You can also use one of our practica as a starting point for your final project.
-
-Project ideas in each track  community technology  re-design community technology training materials for the Philadelphia Community Wireless Project research the state of community networks nationally to learn what has worked, what hasn&amp;rsquo;t  literary / cultural studies  compare the use of text messages in novels or films a distributed mind / quantified self project that picks up on the work done in our SMS analysis practicum  digital humanities  visualize or explore data in the Early Modern Letters Online database / republic of letters project a comparative analysis of the user experience design in various messaging platforms, picking up on our what does 💬 mean? practicum.  
+Project Ideas  community technology  re-design community technology training materials for the Philadelphia Community Wireless Project research the state of community networks nationally to learn what has worked, what hasn&amp;rsquo;t run your own social network using this tutorial by Darius Kazemi, or Komrade, a socialist network designed by Ryan Heuser.  literary / cultural studies  compare the use of text messages in novels or films a distributed mind / quantified self project that picks up on the work done in our SMS analysis practicum  digital humanities  visualize or explore data in the Early Modern Letters Online database / republic of letters project a comparative analysis of the user experience design in various messaging platforms, picking up on our what does 💬 mean? practicum.  
