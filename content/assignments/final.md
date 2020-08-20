@@ -2,26 +2,23 @@
 type: assignment
 layout: single
 title: Final Project
-when: Due date TBD
+when: Due Dec 8
 ---
 
-{{< TK >}}
+A range of formats are possible for your final project, from essays to datasets, from visualizations to research reports for community organizations. You can work individually, or in pairs or groups on your final projects. You should begin thinking about your final project around Fall Recess, and consult with me on your idea beginning Week 8 / Oct 21.
 
-There are several different "tracks" that run throughout this course: community technology, literary and cultural studies, or digital humanities. Focusing on one track will allow students to rehearse their final project ideas through readings or practica in each of those tracks throughout the term.
-
-Students can work in pairs or groups on their final projects. 
-
-We'll keep a running list of project ideas below. You can also use one of our [practica]({{< ref "/practica" >}}) as a starting point for your final project.
+We'll keep a running list of project ideas below, organized by the different disciplinary tracks that run throughout the course: community technology, literary and cultural studies, or digital humanities. You can also use one of our [practica]({{< ref "/practica" >}}) as a starting point for your final project.
 
 <div class="tc center">
 
-## Project ideas in each track
+## Project Ideas
 
 </div>
 
 ### community technology
 - re-design community technology training materials for the Philadelphia Community Wireless Project
 - research the state of community networks nationally to learn what has worked, what hasn't
+- run your own social network using [this tutorial by Darius Kazemi](https://runyourown.social/), or [Komrade](https://github.com/quadrismegistus/Komrade), a socialist network designed by Ryan Heuser.
 
 ### literary / cultural studies
 
