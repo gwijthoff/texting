@@ -10,7 +10,7 @@ Students will apply methods from literary theory to text messages. They will lea
 view all
 practica  rubric &amp;
 assignments    ❀
-Objectives This course is devoted to developing critical data literacies. This means that students will:
+Objectives This course centers on critical data literacies. This means that students will:
  review the numerical and categorical information that is collected about them when using social media and messaging platforms, learn how, where, and by whom their texts are encoded, transmitted, and stored, and experiment with alternative messaging platforms that will require them to learn some basic computational tools.  No prior experience with code or critical theory is required.
 Required Books Joanne McNeil, Lurking: How a Person Became a User (2020)
 Amaranth Borsuk, The Book (2018)
