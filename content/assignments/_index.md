@@ -4,7 +4,9 @@ title: Assignments
 when: Due date TBD
 ---
 
-The goal of these assignments and grading rubrics are, above all, to remain accountable to one another and to set you up for success in the class. For me, this means posting clear and reasonable expectations. For you, this means staying connected as best you can and communicating what's working and what isn't. Please note that *everything below can change if we need it to,* depending on world events, our collective energy while learning remotely, and the direction our conversations take us. For more detail on this, please read the [COVID caveat]({{< ref "/#admin" >}}).
+The goal of these assignments and grading rubrics are, above all, to remain accountable to one another and to set you up for success in the class. For me, this means posting clear and reasonable expectations. For you, this means staying connected as best you can and communicating what's working and what isn't. Please note that *everything below can change if we need it to.* For more detail on this, please read the [COVID caveat]({{< ref "/#admin" >}}).
+
+<br/>
 
 <div class="tc center">
 
