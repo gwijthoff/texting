@@ -117,7 +117,7 @@ Elaine Treharne and Claude Willan, *Text Technologies: A History* (2019)
 
 If there’s a construction icon (🚧) at the top of a page, that means it's still in process, subject to change, and open to your input!
 
-If any student would like contribute or make edits to the course site via GitHub, feel free to submit a pull request. I just ask that anyone who does so teach one of their classmates who has never used GitHub (or markdown, the command line, or static sites) about the process as they make their edits.
+If any student would like contribute or make edits to the course site via GitHub, feel free to submit a pull request. For anyone who does so, I just ask that you teach one of your classmates who has never used GitHub (or markdown, the command line, or static sites) about the process as you make your edits.
 
 ## Honor Code
 
