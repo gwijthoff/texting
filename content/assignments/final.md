@@ -18,7 +18,7 @@ We'll keep a running list of project ideas below, organized by the different dis
 ### community technology
 - re-design community technology training materials for the Philadelphia Community Wireless Project
 - research the state of community networks nationally to learn what has worked, what hasn't
-- run your own social network using [this tutorial by Darius Kazemi](https://runyourown.social/), or [Komrade](https://github.com/quadrismegistus/Komrade), a socialist network designed by Ryan Heuser.
+- run your own social network using [this tutorial by Darius Kazemi](https://runyourown.social/), or [Komrade](https://github.com/quadrismegistus/Komrade), a "socialist network" designed by Ryan Heuser.
 
 ### literary / cultural studies
 
@@ -28,4 +28,5 @@ We'll keep a running list of project ideas below, organized by the different dis
 ### digital humanities
 
 - visualize or explore data in the Early Modern Letters Online database / republic of letters project
-- a comparative analysis of the user experience design in various messaging platforms, picking up on our [what does 💬 mean?]({{< ref "/practica/ellipsis" >}}) practicum.
+- perform a comparative analysis of the user experience design on various messaging platforms, picking up on our [what does 💬 mean?]({{< ref "/practica/ellipsis" >}}) practicum.
+- build a [portable network kit](https://communitytechny.org/portable-network-kits/) and use it to set up a local intranet for your neighbors. What content will you put on the network?
