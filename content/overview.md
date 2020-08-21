@@ -111,9 +111,15 @@ Elaine Treharne and Claude Willan, *Text Technologies: A History* (2019)
 
 ## COVID Caveat
 
+No one expected to be here. Even now, it's difficult to know what to expect from the world in the coming months. But despite the challenges of the pandemic, I am grateful to be here with you and am very much looking forward to our semester together.
 
+Let's begin by acknowledging that our learning throughout the Fall will happen amid dislocation, anxiety, uncertainty, awareness of social injustice, anger, and an election. Real life is never separate from this learning community. The pandemic and anti-racist uprisings have impacted all of us in very different ways. They have produced uneven effects in terms of physical health, mental wellbeing, and financial resources. I hope we can maintain an awareness of these facts and offer some kindness when things get tough for any one of us. We will need to be *more* communicative online than we have been in the past, especially if and when things get rocky.
 
-## General Notes
+This course is designed to be flexible and can evolve in its format and requirements depending on world events, our collective energy while learning remotely, and the direction our conversations take us. Given that we will all be meeting online, with different technological infrastructures and accessibility than we're used to on campus, it may take a couple weeks before the group finds a rhythm, be it synchronous or asynchronous. So, please keep an open channel with me about what's working and what isn't, both for you and for the class as a whole.
+
+Above all, I want you to know that your wellbeing—and that of your family and friends—will always be more important to me than this class. You don't have to apologize if attempting to learn *during a pandemic* forces you to work at a different pace from what's outlined on this syllabus, or if we need to find an alternative path for you through the class. My primary role as a teacher is to support you however I can. Let me know how I can do that better.
+
+## In General
 
 If there’s a construction icon (🚧) at the top of a page, that means it's still in process, subject to change, and open to your input!
 
@@ -129,4 +135,8 @@ The Office of Disability Services (ODS) offers a range of services to ensure tha
 
 ## Wellbeing
 
-Many students face personal challenges or have psychological needs that may interfere with their academic progress, social development, or emotional wellbeing. The university offers a variety of confidential services to help you through difficult times, including individual and group counseling, crisis intervention, consultations, online chats, and mental health screenings. These services are provided by staff who welcome all students and embrace a philosophy respectful of clients’ cultural and religious backgrounds, and sensitive to differences in race, ability, gender identity and sexual orientation. Call 609-258-3141 or walk-in during business hours to make an appointment for an initial 20-minute consultation. You can also schedule your initial consultation appointment online at [princeton.edu/MyUHS](http://princeton.edu/MyUHS).
+Princeton offers a variety of confidential services to help you through difficult times, including individual and group counseling, crisis intervention, consultations, online chats, and mental health screenings. These services are provided by staff who welcome all students and embrace a philosophy respectful of clients’ cultural and religious backgrounds, and sensitive to differences in race, ability, gender identity and sexual orientation. You can schedule an initial consultation online at [princeton.edu/MyUHS](http://princeton.edu/MyUHS).
+
+# {{< sms >}} Acknowledgements
+
+Thanks to all guest speakers, to Rachel Sagner Buurma and Jérémie Lumbroso for inspiration on the practica, and to Ryan Cordell, Amelia Acker, and Sara J. Grossman, whose syllabi and pedagogy influenced the design and content of this course.
