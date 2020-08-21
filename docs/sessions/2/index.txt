@@ -32,12 +32,12 @@
 
 Overview of the roots of SMS as a technical standard, its current state, and its proposed replacement: the Rich Communication Standard (RCS).
 
-Make sure everyone is set up with course platforms.
+Make sure everyone is set up with course platforms, and pair up for the semester&amp;rsquo;s letter writing.
 
-Before Class 📚 Read:  Scott B. Weingart, &amp;ldquo;The Route of a Text Message, a Love Story&amp;rdquo;  🎧 Listen:  &amp;ldquo;Thank You, Text.&amp;rdquo; Reset podcast  ✏️ Write:  answers to these #response-questions  A single text message has to pass through many &amp;ldquo;layers&amp;rdquo; of translation and transmission. Explain how one of those layers works, as described by Weingart. What is one problem with the new Rich Communication Standard (RCS), as it&amp;rsquo;s currently proposed?    ❀
+Before Class 📚 Read:  Scott B. Weingart, &amp;ldquo;The Route of a Text Message, a Love Story&amp;rdquo;  🎧 Listen:  &amp;ldquo;Thank You, Text.&amp;rdquo; Reset podcast episode (26min)  📺 Watch:  A Brief Look at Texting and the Internet in Film (2014, 5min)  ✏️ Write:  answers to these #response-questions:  A single text message has to pass through many &amp;ldquo;layers&amp;rdquo; of translation and transmission. Explain how one of those layers works, as described by Weingart. What is one bug or feature of the new Rich Communication Standard (RCS), as it&amp;rsquo;s currently proposed?    ❀
 
 Practicum What does the animated ellipsis (i.e. 💬) actually indicate on various messaging platforms?
 
 ❀
 
-Related Links  Amelia Acker, &amp;ldquo;The Global System for Mobile Communication: The Hidden Influence of Standards in Text Messaging and Wireless Communication&amp;rdquo;  
+Related Links on SMS standards  Amelia Acker, &amp;ldquo;The Global System for Mobile Communication: The Hidden Influence of Standards in Text Messaging and Wireless Communication&amp;rdquo;  on the wave of purloined texts  &amp;ldquo;Why more than 168,000 Valentine’s day text messages arrived in November,&amp;rdquo; Ars Technica  on Rich Communication Standard  &amp;ldquo;SMS Replacement is Exposing Users to Text, Call Interception Thanks to Sloppy Telecos,&amp;rdquo; Motherboard  

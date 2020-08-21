@@ -30,18 +30,16 @@
 +---------------------------------------------------------------->
 
 
-🚧
-
 Visitor: Houman Saberi, Community Tech NY
 
 A brief introduction to a number of grassroots, activist organizations working toward digital equity in the U.S. who define themselves as &amp;ldquo;community technologists.&amp;rdquo;
 
-The key differences between one-to-one messaging, one-to-few group chats, and one-to-many broadcasting. The divide between local ties and global connectedness. Discuss how a class spread across the world can work to build a local infrastructure in Philadelphia.
+The key differences between one-to-one messaging, one-to-few group chats, and one-to-many broadcasting. The divide between local ties and global connection.
 
-Before Class 📚 Read:  Claire Park, “Community Broadband: The Fast, Affordable Internet Option That’s Flying Under the Radar.” New America Foundation (May 2020) Greta Byrum, “Building the People’s Internet.” Urban Omnibus, October 2, 2019. Browse and review:  Community Technology Collective website Diana Nucera, ed., Teaching Community Technology Handbook, Detroit Community Technology Project    📺 Watch:  &amp;ldquo;Intro to Community Technology&amp;rdquo; panel at the 2020 Allied Media Conference. To be posted later here? Might also be on CTC site  ✏️ Write:  a letter to your classmate answers to these #response-questions  test    ❀
+Before Class 📚 Read:  Greta Byrum, “Building the People’s Internet.” Urban Omnibus Familiarize yourselves with:  Community Technology Collective Teaching Community Technology Handbook, ed. Diana Nucera    📺 Watch:  &amp;ldquo;Intro to Community Technology&amp;rdquo; panel at the 2020 Allied Media Conference. To be posted later here…  ✏️ Write:  a letter to your classmate answers to these #response-questions:  What is the difference between mesh networks and traditional network infrastructures? How would you describe the curriculum in the Teaching Community Technology Handbook?    ❀
 
-Practicum Build a Portable Network Kit, part 1
+Practicum None for this week.
 
 ❀
 
-Related Links on the trend toward social media &amp;ldquo;groups&amp;rdquo;  Nina Jankowicz, &amp;ldquo;Facebook Groups Are Destroying America, Wired, June 17, 2020 William Davies, &amp;ldquo;What&amp;rsquo;s wrong with WhatsApp,&amp;rdquo; The Guardian, July 2, 2020  
+Related Links artifact of the week: telegram  &amp;ldquo;I Tried to Send a Telegram in 2016,&amp;rdquo; The Atlantic. See also this Atlas Obscura piece.  on the trend toward social media &amp;ldquo;groups&amp;rdquo;  Nina Jankowicz, &amp;ldquo;Facebook Groups Are Destroying America, Wired, June 17, 2020 William Davies, &amp;ldquo;What&amp;rsquo;s wrong with WhatsApp,&amp;rdquo; The Guardian, July 2, 2020  legal barriers to rural and community-owned wireless  Claire Park, “Community Broadband: The Fast, Affordable Internet Option That’s Flying Under the Radar.” New America Foundation (May 2020)  
