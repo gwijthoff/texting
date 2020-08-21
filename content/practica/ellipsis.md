@@ -2,6 +2,7 @@
 type: practicum
 layout: single
 title: What does 💬 actually mean?
+when: September 9
 ---
 
 An exploration of what the animated ellipsis indicates, on a number of messaging platforms.
