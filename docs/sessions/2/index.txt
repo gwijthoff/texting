@@ -40,4 +40,6 @@ Practicum What does the animated ellipsis (i.e. 💬) actually indicate on vario
 
 ❀
 
-Related Links on SMS standards  Amelia Acker, &amp;ldquo;The Global System for Mobile Communication: The Hidden Influence of Standards in Text Messaging and Wireless Communication&amp;rdquo;  on the wave of purloined texts  &amp;ldquo;Why more than 168,000 Valentine’s day text messages arrived in November,&amp;rdquo; Ars Technica  on Rich Communication Standard  &amp;ldquo;SMS Replacement is Exposing Users to Text, Call Interception Thanks to Sloppy Telecos,&amp;rdquo; Motherboard  
+Related Links artifact of the week: Sumerian tokens Schmandt-Besserat, Denise. How Writing Came About. Austin: University of Texas Press, 1996. On Sumerian tokens and bullae, c. 8000-3500 BCE
+
+on SMS standards  Amelia Acker, &amp;ldquo;The Global System for Mobile Communication: The Hidden Influence of Standards in Text Messaging and Wireless Communication&amp;rdquo;  on the 2019 wave of purloined texts  &amp;ldquo;Why more than 168,000 Valentine’s day text messages arrived in November,&amp;rdquo; Ars Technica  on Rich Communication Standard  &amp;ldquo;SMS Replacement is Exposing Users to Text, Call Interception Thanks to Sloppy Telecos,&amp;rdquo; Motherboard  
