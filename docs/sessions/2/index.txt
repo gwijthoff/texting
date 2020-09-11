@@ -30,6 +30,8 @@
 +---------------------------------------------------------------->
 
 
+session notes • slides
+
 Overview of the roots of SMS as a technical standard, its current state, and its proposed replacement: the Rich Communication Standard (RCS).
 
 Make sure everyone is set up with course platforms, and pair up for the semester&amp;rsquo;s letter writing.
