@@ -11,6 +11,8 @@ Use them to visualize patterns in the relationship between you and a friend.
 
 An exercise designed by [Jérémie Lumbroso](https://www.cs.princeton.edu/people/profile/lumbroso), who will join us in class.
 
+![](https://raw.githubusercontent.com/jlumbroso/text-message-analysis-notebook/master/example-rescaled-text-count.png)
+
 ## Download
 
 For those of you with Mac hardware, there are three elements you'll need for this practicum: 1) [PhoneView](https://www.ecamm.com/mac/phoneview/) (software used for downloading text messages from your phone as plain text, CSV files on your laptop), 2) our visitor Jérémie Lumbroso's code written in Python, and 3) Anaconda for opening and running Jérémie's code. Here are the detailed instructions:
@@ -41,6 +43,12 @@ For those of you with Mac hardware, there are three elements you'll need for thi
 - Click on that line of code so that it is surrounded by a green box, and typing SHIFT+ENTER. You should see the three most recent texts you sent populate the code.
   - If you receive an error message instead, try adding a new line of code at the very top of this file that reads: `import pandas`
 - Continue clicking on each line of the code, and then typing SHIFT+ENTER. The graphs will change to reflect your text messages.
+
+## For Windows/Android Users
+
+Jérémie says:
+
+> For Windows computers, you can use [iExplorer](https://macroplant.com/iexplorer); for Android phones, you can use the [SMS Backup and Restore app](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en). Read [this DigitalTrends article](https://www.digitaltrends.com/mobile/how-to-save-text-messages/) for more information. The notebook provided here may need to be adapted.
 
 ## Notes
 
