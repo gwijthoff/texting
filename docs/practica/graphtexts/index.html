@@ -71,11 +71,54 @@
 
 <div class="mw6 measure">
 	<p>Use them to visualize patterns in the relationship between you and a friend.</p>
-<p>An exercise designed by <a href="https://www.cs.princeton.edu/people/profile/lumbroso">Jérémie Lumbroso</a>, who will join us in class. <a href="https://github.com/jlumbroso/text-message-analysis-notebook">Download his GitHub repository here.</a></p>
-<p>Throughout this practicum, we will ask: how do we understand ourselves through the digital traces we leave behind, both willingly and passively?</p>
-<h3 id="notes">Notes</h3>
+<p>An exercise designed by <a href="https://www.cs.princeton.edu/people/profile/lumbroso">Jérémie Lumbroso</a>, who will join us in class.</p>
+<h2 id="download">Download</h2>
+<p>For those of you with Mac hardware, there are three elements you&rsquo;ll need for this practicum: 1) <a href="https://www.ecamm.com/mac/phoneview/">PhoneView</a> (software used for downloading text messages from your phone as plain text, CSV files on your laptop), 2) our visitor Jérémie Lumbroso&rsquo;s code written in Python, and 3) Anaconda for opening and running Jérémie&rsquo;s code. Here are the detailed instructions:</p>
+<ol>
+<li>Download the full, paid version of PhoneView using the link I shared in our Slack. Open the .zip file and move the program to your Applications folder.
 <ul>
-<li>To get Jupyter Notebooks up and running, use the &ldquo;<a href="https://programminghistorian.org/en/lessons/jupyter-notebooks">Introduction to Jupyter Notebooks</a>&rdquo; tutorial from <em>The Programming Historian.</em></li>
+<li>If you have any trouble downloading your texts as a CSV file, if you don&rsquo;t have the cable to connect your phone to your laptop, or <strong>if you would prefer not to use personal text messages for this exercise</strong>, feel free to use this sample CSV file adapted from <a href="https://www.dropbox.com/s/0nycft7ztwrmr0w/worf.csv?dl=0">the all-time greatest TV series</a>.</li>
+</ul>
+</li>
+<li>Download the code in Jérémie&rsquo;s <a href="https://github.com/jlumbroso/text-message-analysis-notebook">GitHub repository</a>. Click the green &ldquo;Code ↓&rdquo; button and select &ldquo;Download Zip.&rdquo;
+<ul>
+<li>Once downloaded, open that .zip file to unpack its contents.</li>
+</ul>
+</li>
+<li>Download Anaconda, a free, open-source distribution of Python and R. <a href="https://www.anaconda.com/products/individual">Click the &lsquo;Download&rsquo; button on this page,</a> and for Mac, select &ldquo;64-Bit Graphical Installer (462 MB).&rdquo;
+<ul>
+<li>Once downloaded, double click the installer file <code>Anaconda3-2020.07-MacOSX-x86_64.pkg</code>. The installer file will automatically place Anaconda-Navigator in your Applications folder.</li>
+</ul>
+</li>
+</ol>
+<h2 id="analyze">Analyze</h2>
+<h3 id="phoneview">PhoneView</h3>
+<ul>
+<li>Open PhoneView from your Applications folder. When a message pops up reading &ldquo;This is an application downloaded from the internet. Are you sure you want to open it?&rdquo; click yes. Read and accept license agreement.</li>
+<li>Connect your phone with a USB cable to your laptop. Unlock your phone&rsquo;s screen. You may have to tell your phone that this laptop is a trusted device using an iCloud code sent via text, or by accepting it in a pop up window.</li>
+<li>Data should begin transferring in PhoneView automatically. <strong>All data is stored locally on your computer&rsquo;s hard drive, and nothing will ever be transferred online.</strong></li>
+<li>Once all text messages have populated the &ldquo;data&rdquo; column, select the person whose correspondence you&rsquo;d like to analyze. Then click the icon on the top left, &ldquo;Copy From iPhone.&rdquo; Save the CSV file.</li>
+<li>Open the folder you unzipped from Jérémie&rsquo;s GitHub repository, titled <code>text-message-analysis-notebook-master.</code> Drag the CSV file containing your text messages into this folder.</li>
+</ul>
+<h3 id="anaconda">Anaconda</h3>
+<ul>
+<li>Open Anaconda-Navigator in your Applications folder. Click the &ldquo;Launch&rdquo; icon beneath Jupyter Notebook. This will open a terminal window and a browser window.</li>
+<li>In the localhost window opened in your web browser, navigate to the <code>text-message-analysis-notebook-master</code> folder. Click on the file <code>Text Analysis.ipynb</code>. This will open a new window.</li>
+<li>In the section of the code with a heading that reads &ldquo;<strong>Importing the text message data</strong>&quot;, change the CSV filename in the following line the filename of your text message CSV. Again, make sure that you&rsquo;ve moved that CSV file into the folder you unzipped from GitHub.
+<ul>
+<li><code>df = pvh.load_csv(filepath=&quot;text_messages.csv&quot;, keep_type=False)</code></li>
+</ul>
+</li>
+<li>Click on that line of code so that it is surrounded by a green box, and typing SHIFT+ENTER. You should see the three most recent texts you sent populate the code.
+<ul>
+<li>If you receive an error message instead, try adding a new line of code at the very top of this file that reads: <code>import pandas</code></li>
+</ul>
+</li>
+<li>Continue clicking on each line of the code, and then typing SHIFT+ENTER. The graphs will change to reflect your text messages.</li>
+</ul>
+<h2 id="notes">Notes</h2>
+<ul>
+<li>For a detailed introduction to Jupyter Notebooks for digital humanities, use the &ldquo;<a href="https://programminghistorian.org/en/lessons/jupyter-notebooks">Introduction to Jupyter Notebooks</a>&rdquo; tutorial from <em>The Programming Historian.</em></li>
 </ul>
 </div>
 
