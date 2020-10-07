@@ -34,7 +34,7 @@
 
 Before Class 📚 Read:  Borsuk, The Book, Chapter 1: The Book as Object Treharne and Willan, Text Technologies, excerpts from Part II: Historical Framework. emphasize interpersonal texts / point-to-point examples  📺 Watch:  telegraph operator racing a T9 texting champion interview with Verena Lepper on her digital Egyptology research of Elephantine Island, reconstructing papyrus rolls  to be launched 2021, but early version of site here    ❀
 
-Practicum Build a working telegraph.
+Practicum Experiment with SMS-based apps and art.
 
 ❀
 
