@@ -30,14 +30,10 @@
 +---------------------------------------------------------------->
 
 
-🚧
-
 A brief introduction to theories of textuality. Why text is never just &amp;ldquo;information,&amp;rdquo; even when it&amp;rsquo;s a CSV or TXT file. Can data be said to have an &amp;ldquo;author&amp;rdquo; in the textual sense, even if that data has been unconsciously or unwittingly produced?
 
-Before Class 📚 Read:  Treharne and Willan, Text Technologies: A History, Part I: Conceptual Framework Roland Barthes, either:  The Pleasure of the Text &amp;ldquo;From Work to Text&amp;rdquo; Image, Music, Text    ❀
+Before Class 📚 Read:  Treharne and Willan, Text Technologies: A History, Part I: Conceptual Framework, pp. 1–33 Roland Barthes, &amp;ldquo;From Work to Text&amp;rdquo; (1971)  ❀
 
 Practicum Learn to text in T9.
 
-❀
 
-Related Links  this 1990s article on media art and networked communication Barbara Johnson deconstruction of the purloined letter  Toril Moi on Barbara Johnson: &amp;ldquo;a letter always arrives at its destination&amp;rdquo;   Krämer, Sybille. Medium, Messenger, Transmission: An Approach to Media Philosophy. Amsterdam: Amsterdam University Press, 2015. Scott Kushner, &amp;ldquo;Comparative Non-Literature and Everyday Digital Textuality&amp;rdquo; Michael Witmore, &amp;ldquo;Text: A Massively Addressable Object&amp;rdquo; (2012)  &amp;ldquo;What makes a text a text—its susceptibility to varying levels of address—is a feature of book culture and the flexibility of the textual imagination. We address ourselves to this level, in this work, and think about its relation to some other.&amp;rdquo;    
