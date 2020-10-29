@@ -28,5 +28,6 @@ We'll keep a running list of project ideas below, organized by the different dis
 ### digital humanities
 
 - visualize or explore data in the Early Modern Letters Online database / republic of letters project
+- analyze data in the [Spanish English Bilingual Youth Texts Corpus](https://byts.commons.gc.cuny.edu/)
 - perform a comparative analysis of the user experience design on various messaging platforms, picking up on our [what does 💬 mean?]({{< ref "/practica/ellipsis" >}}) practicum.
 - build a [portable network kit](https://communitytechny.org/portable-network-kits/) and use it to set up a local intranet for your neighbors. What content will you put on the network?
